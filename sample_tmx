@@ -1,0 +1,1709 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Sun Mar  4 12:28:58 2018"
+          srclang="en"
+          adminlang="en"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+  <body>
+    <tu>
+      <tuv xml:lang="en"><seg>Changing Lives _BAR_ Changing Society _BAR_ How It Works _BAR_ Technology Drives Change Home _BAR_ Concepts _BAR_ Teachers _BAR_ Search _BAR_ Overview _BAR_ Credits _BAR_ HHCC Web _BAR_ Reference _BAR_ Feedback Virtual Museum of Canada Home Page</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il a transformé notre vie _BAR_ Il a transformé la société _BAR_ Son fonctionnement _BAR_ La technologie, moteur du changement Accueil _BAR_ Concepts _BAR_ Enseignants _BAR_ Recherche _BAR_ Aperçu _BAR_ Collaborateurs _BAR_ Web HHCC _BAR_ Ressources _BAR_ Commentaires Musée virtuel du Canada</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Site map</seg></tuv>
+      <tuv xml:lang="fr"><seg>Plan du site</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Feedback</seg></tuv>
+      <tuv xml:lang="fr"><seg>Rétroaction</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Credits</seg></tuv>
+      <tuv xml:lang="fr"><seg>Crédits</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Français</seg></tuv>
+      <tuv xml:lang="fr"><seg>English</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is light ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>Qu'est-ce que la lumière?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The white light spectrum Codes in the light The electromagnetic spectrum Emission spectra Absorption spectra Light-years Light pollution</seg></tuv>
+      <tuv xml:lang="fr"><seg>La découverte du spectre de la lumière blanche Des codes dans la lumière Le spectre électromagnétique Les spectres d'émission Les spectres d'absorption Les années-lumière La pollution lumineuse</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The sky of the first inhabitants A contemporary vison of the Universe Astronomy for everyone</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le ciel des premiers habitants La vision contemporaine de l'Univers L'astronomie pour tous</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cartoon</seg></tuv>
+      <tuv xml:lang="fr"><seg>Bande dessinée</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Links</seg></tuv>
+      <tuv xml:lang="fr"><seg>Liens</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Glossary</seg></tuv>
+      <tuv xml:lang="fr"><seg>Glossaire</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Observatories</seg></tuv>
+      <tuv xml:lang="fr"><seg>Observatoires</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Astronomers Introduction Introduction video What is Astronomy?</seg></tuv>
+      <tuv xml:lang="fr"><seg>Astronomes Introduction Vidéo d'introduction Qu'est-ce que l'astronomie?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Often considered the oldest science, it was born of our amazement at the sky and our need to question Astronomy is the science of space beyond Earth's atmosphere.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Souvent considérée comme la plus ancienne des sciences, elle découle de notre étonnement et de nos questionnements envers le ciel L'astronomie est la science qui étudie l'Univers au-delà de l'atmosphère terrestre.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The name is derived from the Greek root astron for star, and nomos for arrangement or law.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Son nom vient du grec astron, qui veut dire étoile et nomos, qui veut dire loi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Astronomy is concerned with celestial objects and phenomena - like stars, planets, comets and galaxies - as well as the large-scale properties of the Universe, also known as "The Big Picture".</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle s'intéresse à des objets et des phénomènes tels que les étoiles, les planètes, les comètes, les galaxies et les propriétés de l'Univers à grande échelle.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>More specifically, astronomy is the study of the origin and evolution of the Universe, the physics and chemistry of celestial objects, and the calculation of their positions and motions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Plus spécifiquement, elle étudie la formation et l'évolution de l'Univers, détermine les propriétés physiques et chimiques des objets célestes qu'il contient et mesure leurs déplacements.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For most people, astronomy represents a world that is both mysterious and grandiose - a story about glimmering celestial objects and the immensity of the cosmos.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour la majorité des gens, l'astronomie évoque un monde à la fois mystérieux et grandiose, celui des étoiles et de l'immensité cosmique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It prompts us to ask the deepest existential questions:</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'astronomie évoque donc aussi les grandes questions « existentielles » :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Who are we?</seg></tuv>
+      <tuv xml:lang="fr"><seg>Où sommes-nous?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Where did we come from?</seg></tuv>
+      <tuv xml:lang="fr"><seg>D'où venons-nous?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Are we alone?</seg></tuv>
+      <tuv xml:lang="fr"><seg>Sommes-nous seuls?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The lure of these universal enigmas was the spark that ignited the passion of many of today's famous astronomers.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'attrait exercé par ces énigmes universelles a représenté l'étincelle initiale du parcours de nombreux grands astronomes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Astronomy also plays a much more practical role that is not nearly as important today as it was in the past.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'astronomie possède également une dimension beaucoup plus pratique et « terre à terre », laquelle est moins apparente aujourd'hui.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Since the time of our earliest ancestors, humans have used the motions of celestial objects to position themselves in space and time.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Depuis toujours, nous observons les mouvements du ciel pour nous repérer dans l'espace et le temps.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Prehistoric humans studied the relationship between the seasons and the length of days to plan their hunting and gathering activities.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ainsi, l'homme préhistorique connaît bien la relation existant entre la variation de la durée du jour et le cycle des saisons; il s'en sert pour planifier ses déplacements de chasse et de cueillette.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It was also by observing the positions of the stars that the first farmers decided when to plant and when to harvest, and early navigators could sail the oceans blue.</seg></tuv>
+      <tuv xml:lang="fr"><seg>C'est aussi en observant la position des étoiles que les premiers agriculteurs décident du moment des grandes étapes de leur travail et que les navigateurs se repèrent sur les mers.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the Age of Antiquity, astrometry - the measurement of the positions of stars and planets - was the main occupation of astronomers.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Durant l'Antiquité, l'astrométrie, qui est la mesure de la position des étoiles et des planètes, est la principale occupation des astronomes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There was some degree of interest for astronomy from the general public as well, since they believed that the positions of celestial objects influenced events that took place on Earth.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour le public, le travail n'est pas sans intérêt : on croit en effet que la position des objets célestes a un impact sur les évènements qui ont cours sur la Terre.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>?During the Renaissance, advances in mathematics coupled with the invention of new observational instruments (like the refracting telescope) gave rise to modern astronomy.</seg></tuv>
+      <tuv xml:lang="fr"><seg>?Lors de la Renaissance, les progrès en mathématiques réalisés depuis l'Antiquité et l'invention de nouveaux instruments d'observation (comme la lunette astronomique) conduisent à la naissance de l'astronomie moderne.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>From the 19th century onwards, the discovery of the electromagnetic spectrum and the world of the atom spurred on the development of astrophysics, a new discipline in astronomy that is now considered to be the most important.</seg></tuv>
+      <tuv xml:lang="fr"><seg>À partir de la fin du XIXe siècle, la découverte du spectre électromagnétique et du monde de l'atome va aussi mener à l'apparition d'une nouvelle branche de l'astronomie, la plus importante de nos jours : l'astrophysique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Today, astronomy covers several disciplines:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Aujourd'hui, l'astronomie comprend plusieurs disciplines dont :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Astrometry, which is the precise measurement of the position of stars and planets, and which is greatly facilitated by the use of modern CCD cameras and computers</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'astrométrie, qui se charge de mesurer la position des étoiles et des planètes (et dont la pratique est aujourd'hui facilitée par l'utilisation des caméras CCD et des ordinateurs)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Stellar astronomy, which is the study of the origins and evolution of stars</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'astronomie stellaire, qui étudie l'origine, la formation et l'évolution des étoiles</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Galactic astronomy, which studies the structure and components of galaxies</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'astronomie galactique, qui étudie la structure et les composants des galaxies</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Astrophysics, which studies the Universe and the physics of its constituents (luminosity, temperature, chemical composition)</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'astrophysique, qui étudie la physique de l'Univers et les propriétés physiques de ses constituants (luminosité, température, composition chimique)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Cosmology, which studies the origin and evolution of the Universe as a whole Related to these fields of research are two disciplines that lie more within the domain of geologists and biologists: planetary science, which is the study of asteroids, comets and planets, and astrobiology, which studies the possibility of life in the Universe.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o La cosmologie, qui étudie l'origine et l'évolution de l'Univers dans son ensemble À ces domaines de recherche se rattachent deux disciplines qui sont surtout l'apanage des géologues et des biologistes : les sciences des planètes, qui se chargent de l'étude des astéroïdes, des comètes et des planètes, et l'astrobiologie, qui se charge de l'étude des possibilités de vie dans l'Univers.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Nowadays, professional astronomers have a strong background in astrophysics and their observations are almost always examined in an astrophysical context.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Actuellement, les astronomes professionnels ont tous une formation poussée en astrophysique et leurs observations sont presque toujours étudiées dans un contexte astrophysique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The most serious amateurs actively participate in the study of variable stars, the discovery of new asteroids or comets, and other exciting astronomical work.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les astronomes amateurs jouent également un rôle important en recherche; les plus sérieux participant couramment au suivi d'étoiles variables, à la découverte de nouveaux astéroïdes et de nouvelles comètes, etc.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Video Sequence??John Richard Bond explains what the purpose of astronomy is .</seg></tuv>
+      <tuv xml:lang="fr"><seg>Séquence vidéo??John Richard Bond explique le rôle de l'astronomie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>© 2006 An original idea and a realization of the ASTROLab of Mont-Mégantic National Park</seg></tuv>
+      <tuv xml:lang="fr"><seg>© 2006 Une idée originale et une réalisation de L'ASTROLab du Parc national du Mont-Mégantic</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>China's economy expanded 11.5% in the first half of this year, up 0.5% points from a year earlier according to the National Bureau of Statistics.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'économie de la Chine a augmenté de 11,5 % au cours du premier semestre de 2007, une hausse de 0,5 % par rapport à l'année précédente selon le National Bureau of Statistics.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The second quarter provided the fastest single quarter rise in 12 years.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le deuxième trimestre a affiché la croissance trimestrielle la plus élevée en 12 ans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The economic growth of the second quarter of 2007 was 0.8% higher than the 11.1% recorded for the first three months to March.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En effet, la croissance économique enregistrée au cours du deuxième trimestre de 2007 dépasse de 0,8 % les 11,1 % enregistrés au cours de la période de janvier à mars 2007.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The country's GDP totalled USD 1,405 billion in the first six months of the year.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le PIB national s'est chiffré à 1,405 milliard de dollars américains au cours des six premiers mois de l'année.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>China's GDP is expected to increase to 10.8% in 2007.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le PIB de la Chine devrait croître de 10,8 % en 2007.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Investment is likely to grow 21.8%, consumption by 16.2% and the trade surplus is predicted to increase by over 60%.</seg></tuv>
+      <tuv xml:lang="fr"><seg>On prévoit une croissance des investissements de 21,8 % tandis que la consommation devrait augmenter de 16,2 % et</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the first half of 2007 urban residents saw their per capita disposable income rise by 14.2% in real terms to RMB 7052 an increase of 4% year on year.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En milieu rural, l'augmentation en chiffres absolus a été de 13,3 % pour atteindre 2 111 yuans, soit une hausse de 1,4 % par rapport à l'année précédente.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cash income of rural dwellers increased by 13.3% in real terms to RMB 2111, up 1.4% year on year.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les ventes au détail ont augmenté de 15,4 % par rapport à la même période en 2006.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Retail sales rose 15.4% over same period 2006 - the highest growth rate since 1997.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il s'agit de la plus forte croissance enregistrée depuis 1997.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>China raised interest rates for the 5th time in 15 months on July 20th.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La Chine a augmenté ses taux d'intérêt pour la cinquième fois en 15 mois le 20 juillet.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It also announced that the tax on bank deposit interest income would be cut to 5% from 20 % effective August 15.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle a annoncé que le taux d'imposition sur les intérêts de dépôts bancaires serait réduit de 20 % à 5 % à compter du 15 août.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is widely predicted that China looks set to soon pass Germany and become the world's third largest economy.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Bon nombre d'experts prédisent que la Chine se prépare à dépasser l'Allemagne sous peu et à devenir la troisième économie mondiale en importance.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In general Hong Kong and Macau remain the top two foreign destinations but among those who have been abroad at least 5</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'Organisation mondiale du tourisme prévoit que la Chine pourrait bien devancer l'Espagne, d'ici 2010, et rafler le titre de deuxième destination touristique en termes de popularité après la France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The UN World Tourism Organization has predicted that by 2010 China could well move ahead of Spain as the second most popular tourist destination after France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pénétration de nouvelles villes et régions dans des marchés clés partout en Chine et ventes initiales enregistrées dans les villes de Harbin, Shenyang, Qingdao, Hangzhou, Suzhou, Nanjing et Shenzhen.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>followed by a week of agent training and B2B in Shanghai and Beijing.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En l'absence de SDA, la réglementation actuelle nuit grandement à notre capacité de nous adresser aux consommateurs.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Provisional planning for BC Canada House activities in June 2008.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Juillet - Visite de sept représentants de la presse écrite en Alberta et en Colombie-Britannique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>NWT Mission to Shanghai and Beijing in September- presentation to Mission plus agents round table and lunch.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Juillet - Visite de sept représentants de la presse écrite en Ontario et au Québec.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Publication of Canada Travel Guide in traditional Chinese to support Hong Kong market.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Août - Visite de représentants (deux des médias, un de l'industrie et deux organisateurs d'événements) en Ontario pour planifier le Rose Wedding.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Consumer Development Without ADS our ability to talk to consumers is severely restricted under current regulations.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Septembre - Visite de quatre représentants des médias télévisuelles en Colombie-Britannique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There is ongoing benefit in an integrated Media and Public Relations platform whereby the CTC, Tourism BC, Travel Alberta, Ontario Tourism and shortly</seg></tuv>
+      <tuv xml:lang="fr"><seg>La CCT, Tourism BC, Travel Alberta, Tourisme Ontario et, bientôt, Tourisme Québec/Tourisme Montréal sont représentés par l'agence Ruder Finn en Chine.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Tourism Australia announced first half visitor numbers of 180,200 an increase of 20% over same period last year.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Tourism Australia rapporte un total de 180 200 visiteurs au cours du premier semestre, soit une hausse de 20 % par rapport à la même période l'année précédente.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>China Union Pay has announced that from July 2007 their credit card holders will be able to obtain a tax refund when the card is used for purchases in France, Italy, Germany and Singapore.</seg></tuv>
+      <tuv xml:lang="fr"><seg>China Union Pay a annoncé que ses titulaires de carte de crédit pourront, à compter de juillet 2007, bénéficier d'un remboursement fiscal lorsque la carte sert à régler des achats effectués en France, en Italie, en Allemagne ou à Singapour.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CNTA and USA continue to hold talks on a form of ADS, but no agreement has yet been reached.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'ANTC et les États-Unis poursuivent leurs pourparlers sur une forme de SDA, mais aucune entente n'a été conclue à ce jour.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are now 132 ADS approved countries, the most recent being Oman, Monaco, Morocco, Syria, Namibia, Bulgaria and Mozambique.</seg></tuv>
+      <tuv xml:lang="fr"><seg>On compte maintenant 132 pays ayant le statut de destination approuvée, les plus récents étant Oman, Monaco, le Maroc, la Syrie, la Namibie, la Bulgarie et le Mozambique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>after the UK for visitors to Canada.</seg></tuv>
+      <tuv xml:lang="fr"><seg>profit de destinations long-courriers concurrentes, particulièrement l'Europe et l'Australie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>quarterly market report France Market Highlights # of outbound visitors: % change from previous quarter: # of visitors to Canada: % change from previous quarter:</seg></tuv>
+      <tuv xml:lang="fr"><seg>rapport trimestriel sur le marché France Faits saillants au sujet du marché Nombre de visites à l'étranger : % de variation par rapport au trimestre précédent :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Altogether from November 1, 2006 through July 31, 2007, outbound departures grew 1.3%.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Au cumul du 1er novembre 2006 au 31 juillet 2007, les départs à l'étranger progresse de 1,3 %.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Air Capacity Air France/KLM posted an increase in traffic of 6.9% in August 2007 for capacities up 5.7%.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Capacité aérienne Air France/KLM a enregistré une hausse de 6,9% du trafic en août 2007 pour des capacités en hausse de 5,7 %.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All underlined figures are Industry Canada estimates.?See Sources and Technical Notes for more details.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Toutes les données soulignées sont des estimations d'Industrie Canada.?Voir Sources et notes techniques pour plus de détails.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Growth in ICT Sector Revenues, 1997-2005 (Manufacturing and Services) NAICS 2002 Industry % Change 2004-2005 % Change 1997-2005 CAGR 1997-2005 33331 Commercial and Service Industry Machinery Manufacturing1 13.1% 71.9% 7.0% 33411 Computer and Peripheral Equipment Manufacturing1 -10.7% -42.9% -6.8% 33421 Telephone Apparatus Manufacturing (Wired Communications Equipment)1 -25.9% -58.2% -10.3% 33422 Radio and Television Broadcasting and Wireless Communications Equipment Manufacturing1 5.4% 47.8% 5.0% 33431 Audio and Video Equipment Manufacturing1 -12.0% -7.4% -1.0% 33441 Semiconductor and Other Electronic Component Manufacturing1 -18.6% -27.9% -4.0% 33451 Navigational, Measuring, Medical and Control Instruments Manufacturing1 10.4% 44.2% 4.7% 33592 Communication and Energy Wire and Cable Manufacturing1 4.7% 4.5% 0.6%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Croissance des recettes du secteur des TIC, 1997-2005 (Fabrication et services) SCIAN 2002 Industrie Variation 2004-2005 Variation 1997-2005 TCAC 1997-2005 33331 Fabrication de machines pour le commerce et les industries de services1 13,1% 71,9% 7,0% 33411 Fabrication de matériel informatique et périphérique1 -10,7% -42,9% -6,8% 33421 Fabrication de matériel téléphonique (matériel de communication par fil)1 -25,9% -58,2% -10,3% 33422 Fabrication de matériel de radiodiffusion, de télédiffusion et de communication sans fil1 5,4% 47,8% 5,0% 33431 Fabrication de matériel audio et vidéo1 -12,0% -7,4% -1,0% 33441 Fabrication de semi-conducteurs et d'autres composants électroniques1 -18,6% -27,9% -4,0% 33451 Fabrication d'instruments de navigation, de mesure et de commande et d'instruments médicaux1 10,4% 44,2% 4,7% 33592 Fabrication de fils et câbles électriques et de communication1 4,7% 4,5% 0,6%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Manufacturing1 -5.5% -16.0% -2.2% 51211 Software Publishers 1.3% 113.2% 9.9% 517 Telecommunications Services (excluding Cable and Other Program Distribution)2 3.8% 53.0% 5.5% 51751 Cable and Other Program Distribution 7.4% 144.6% 11.8% 518111 Internet Service Providers (ISPs) 9.2% 679.8% 29.3% 51821 Data Processing, Hosting and Related Services 5.2% 292.6% 18.6% 54151 Computer Systems Design and Related Services 4.1% 145.2% 11.9%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Fabrication des TIC 1 -5,5% -16,0% -2,2% 51121 Éditeurs de logiciels 1,3% 113,2% 9,9% 517 Services de télécommunications (excluant télédistribution) 2 3,8% 53,0% 5,5% 51751 Câblodistribution et autres activités de distribution d'émissions de télévision (télédistribution) 7,4% 144,6% 11,8% 518111 Fournisseurs de services Internet (FSI) 9,2% 679,8% 29,3% 51821 Traitement de données, hébergement de données et services connexes 5,2% 292,6% 18,6% 54151 Conception de systèmes informatiques et services connexes 4,1% 145,2% 11,9%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Services3 4.2% 93.9% 8.6%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Services des TIC 3 4,2% 93,9% 8,6%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICT Wholesaling, Rental and Leasing (NAICS 4173/41791/53242) 0.3% 13.7% 1.6%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Commerce de gros et location des TIC (SCIAN 4173/41791/53242) 0,3% 13,7% 1,6%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Sector4 1.3% 37.1% 4.0% 1 Due to methodological changes in 2000, and methodological changes and revisions in 2003, data are not strictly comparable to data for previous years.?2 Due to methodological changes in 1998, data are not strictly comparable to data for 1997.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Secteur des TIC 4 1,3% 37,1% 4,0% 1 Dû à des changements méthodologiques en 2000, et à des changements méthodologiques et des révisions en 2003, les données ne sont pas parfaitement comparables aux données des années précédentes.?2 Dû à des changements méthodologiques en 1998, les données ne sont pas parfaitement comparables aux données de 1997.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>1 CAGR:</seg></tuv>
+      <tuv xml:lang="fr"><seg>1 TCAC :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Compound Annual Growth Rate.back</seg></tuv>
+      <tuv xml:lang="fr"><seg>Taux de croissance annuel composé.retour</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Business Information by Sector Information &amp; Communications Technologies Statistics, Analysis and Industry Profiles ICT Sector Statistical Reports Canadian ICT Statistical Overview (ICTSO) Key Indicators by Industry Employment What's New Canadian ICT Statistical Overview (ICTSO)</seg></tuv>
+      <tuv xml:lang="fr"><seg>Information d'affaires par secteur Technologie de l'information et des communications Statistiques, analyses et profils industriels Rapports statistiques sur le secteur des TIC Profil statistique des TIC (PSTIC) au Canada Indicateurs clés par industrie Emploi Quoi de neuf Profil statistique des TIC (PSTIC) au Canada</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICT Sector Employment Last Update:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Emploi du secteur des TIC Dernière mise à jour :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>March 2007 This section is better viewed and printed in PDF format [1,252 Kb]?(Help with the Adobe Acrobat PDF Format) ICT Sector Employment, Revised 2005 Estimates</seg></tuv>
+      <tuv xml:lang="fr"><seg>Mars 2007??Visualisez et imprimez cette section en format PDF pour une meilleure apparence [1 375 Ko]?(Aide avec le format PDF Adobe Acrobat) Emploi du secteur des TIC, Estimations révisées 2005</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o ICT sector employment was up by 0.3% in 2005, employing an estimated 569,000 Canadians.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'emploi dans le secteur des TIC a connu une hausse de 0,3% en 2005 pour atteindre un nombre estimé de 569 000.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is the third consecutive annual increase in sector employment, which is somewhat close to its previous peak in 2001.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il s'agit de la troisième hausse annuelle consécutive de l'emploi dans ce secteur qui se situe maintenant à un niveau plutôt semblable au niveau maximal de 2001.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The ICT sector accounted for an estimated 3.5% of all Canadian employment in 2005, a share that has remained relatively stable in recent years.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En 2005, environ 3,5% de tous les emplois au Canada s'inscrivaient dans le secteur des TIC; cette proportion est relativement stable depuis quelques années.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Employment in the manufacturing sub-sector was down by an estimated 2.3% in 2005, a continuation of a longer-term trend that has seen ICT manufacturing employment decrease by nearly 24% since 2000.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'emploi dans le sous-secteur de la fabrication a fléchi d'environ 2,3% en 2005, une baisse qui s'inscrit dans une tendance à long terme : l'emploi dans le secteur de la fabrication des TIC a en effet diminué de près de 24% depuis 2000.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Despite this trend, moderate growth was observed in the instruments industries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce déclin n'a toutefois pas empêché les industries des instruments de progresser de façon modérée.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Approximately 90,000 people were employed by the ICT manufacturing sub-sector in 2005.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En 2005, environ 90 000 personnes étaient employées par le sous-secteur de la fabrication des TIC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o ICT services employment continued growing in 2005, up by 1.5% over the 2004 level.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'emploi dans le secteur des services des TIC a continué de croître en 2005, soit de 1,5% par rapport au niveau de 2004.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Nearly 403,000 Canadians worked in the ICT services industries in 2005, accounting for almost 71% of all ICT sector employment.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Près de 403 000 Canadiens travaillaient pour les industries des services des TIC en 2005, soit presque 71% de tous les emplois du secteur des TIC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>All industries, except computer systems design, contributed to the growth in employment recorded in this sub-sector.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Toutes les industries, à l'exception de celle de la conception de systèmes informatiques, ont contribué à la croissance de l'emploi enregistrée dans ce sous-secteur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The fastest growing industries, in 2005, were internet service providers (20%), followed by cable and satellite TV (10.1%) and data processing services (9.0%).</seg></tuv>
+      <tuv xml:lang="fr"><seg>En 2005, les industries suivantes affichaient le taux de croissance le plus rapide : les fournisseurs d'accès Internet (20%), la télévision par câble et par satellite (10,1%) et les services de traitement de données (9.0%).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Despite a moderate growth of 2.4% in the telecommunications services industries, these industries contributed the most to the growth in employment, accounting for just over 2,700 new jobs.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Par ailleurs, malgré une croissance modérée de 2,4% dans les industries de services de télécommunications, ces industries sont celles qui ont contribué le plus à la hausse de l'emploi étant responsables de la création de plus de 2 700 emplois.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Over 71,700 Canadians are self-employed in the ICT services industries, mostly in the computer systems design industry.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Plus de 71 700 Canadiens oeuvrant dans les industries canadiennes de services des TIC sont des travailleurs autonomes, essentiellement dans l'industrie de la conception de systèmes informatiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The number of self-employed workers was down 4.9% from 2005, but has grown by almost 40% since 1997.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le nombre de travailleurs autonomes dans le secteur des TIC a augmenté de 4,9 % depuis 2005, et de près de 40 % depuis 1997.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>As a share of total ICT services sub-sector employment, self-employment has remained relatively stationary, making up between 16% and 20% of the total since 1997.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La proportion de travailleurs autonomes de l'ensemble des employés du sous-secteur des services des TIC s'est révélée relativement stable depuis 1997, soit entre 16 et 20 %.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o ICT wholesaling employment was down for a second consecutive year, contracting by 2.9% from 2004 to 2005.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o L'emploi dans le commerce de gros des TIC a décliné pour une deuxième année consécutive, en baisse de 2,9 % par rapport à 2005.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>1 Due to methodological changes in 2000, and methodological changes and revisions in 2003, data are not strictly comparable to data for previous years.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Dû à des changements méthodologiques dans les industries de la fabrication en 2000, et à des changements méthodologiques et des révisions en 2003, les données ne sont pas parfaitement comparables aux données des années précédentes.??Source :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Due to methodological changes in 2000 and methodological changes and data revisions in 2003 for the manufacturing industries, data for these years are not strictly comparable to data for previous years.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Croissance de l'emploi du secteur des TIC, 1997-2005 (Fabrication et services) SCIAN 2002 Industrie Variation 2004-2005 Variation 1997-2005 TCAC 1997-2005 33331 Fabrication de machines pour le commerce et les industries de services1 2,3% 9,9% 1,2%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Manufacturing1 -2.3% -9.8% -1.3% 51211 Software Publishers2 4.0% 77.7% 7.5% 517 Telecommunications Services (excluding Cable and Other Program Distribution) 2.4% 17.6% 2.1% 51751 Cable and Other Program Distribution 10.1% 27.5% 3.1% 518111 Internet Service Providers (ISPs)2 19.8% 96.2% 8.8% 51821 Data Processing, Hosting and Related Services2 9.0% 96.6% 8.8% 54151 Computer Systems Design and Related Services2 -1.2% 67.1% 6.6%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Fabrication des TIC1 -2,3% -9,8% -1,3% 51121 Éditeurs de logiciels2 4,0% 77,7% 7,5% 517 Services de télécommunications (excluant télédistribution) 2,4% 17,6% 2,1% 51751 Câblodistribution et autres activités de distribution d'émissions de télévision (télédistribution) 10,1% 27,5% 3,1% 518111 Fournisseurs de services Internet (FSI)2 19,8% 96,2% 8,8% 51821 Traitement de données, hébergement de données et services connexes2 9,0% 96,6% 8,8% 54151 Conception de systèmes informatiques et services connexes2 -1,2% 67,1% 6,6%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Services2 1.5% 49.0% 5.1% 4173 Computer and Communications Equipment Supplies Wholesaler-Distributors -3.3% 11.7% 1.4% 41791 Office and Store Machinery and Equipment Wholesaler-Distributors -3.0% -4.6% -0.6% 53242 Office Machinery and Equipment Rental and Leasing 10.0% -21.4% -3.0%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Services des TIC3 1,5% 49,0% 5,1% 4173 Grossistes-distributeurs d'ordinateurs et de matériel de communication -3,3% 11,7% 1,4% 41791 Grossistes-distributeurs de machines et matériel de bureau et de magasin -3,0% -4,6% -0,6% 53242 Location et location à bail de machines et matériel de bureau 10,0% -21,4% -3,0%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Total ICT Wholesaling, Rental and Leasing -2.9% 5.4% 0.7%</seg></tuv>
+      <tuv xml:lang="fr"><seg>Total - Commerce de gros et location des TIC -2,9% 5,4% 0,7%</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>?3 Including self-employed.</seg></tuv>
+      <tuv xml:lang="fr"><seg>?3 Incluant les travailleurs autonomes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Statistics Canada and Industry Canada.?All underlined figures are Industry Canada estimates.?See Sources and Technical Notes for more details.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Statistique Canada et Industrie Canada.?Toutes les données soulignées sont des estimations d'Industrie Canada.?Voir Sources et notes techniques pour plus de détails.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Business Information by Sector Information &amp; Communications Technologies Statistics, Analysis and Industry Profiles ICT Sector Statistical Reports Canadian ICT Statistical Overview (ICTSO) Key Indicators by Industry GDP What's New Canadian ICT Statistical Overview (ICTSO)</seg></tuv>
+      <tuv xml:lang="fr"><seg>Information d'affaires par secteur Technologie de l'information et des communications Statistiques, analyses et profils industriels Rapports statistiques sur le secteur des TIC Profil statistique des TIC (PSTIC) au Canada Indicateurs clés par industrie PIB Quoi de neuf Profil statistique des TIC (PSTIC) au Canada</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>ICT Sector Gross Domestic Product (GDP) Last Update:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Produit intérieur brut (PIB) du secteur des TIC Dernière mise à jour :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Faculty members are searching for the appropriate methodology to incorporate diverse viewpoints and make the class dynamics work better.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les professeurs sont donc à la recherche de la bonne méthode pour tenir compte de la diversité des points de vue et améliorer la dynamique en classe.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In this respect, a growing number of institutions provide workshops to help faculty members integrate international viewpoints into their teaching.</seg></tuv>
+      <tuv xml:lang="fr"><seg>À cet égard, de plus en plus d'établissements offrent des ateliers destinés à aider les membres du corps professoral à intégrer une dimension internationale à leur enseignement.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Services for international students International students can be an invaluable resource in university classrooms, but they also bring new challenges to course and service delivery.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Services destinés aux étudiants étrangers Les étudiants étrangers, qui représentent une ressource inestimable en salle de classe, entraînent cependant de nouveaux défis en matière de prestations de cours et de services.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Integration services While almost all universities provide ongoing counselling and non-academic support services, as well as academic advising support, to international students, Dr. Timmons, from the University of Prince Edward Island, was surprised to see that only 47 percent of universities offer specific programs to ensure a successful experience for international students during their academic stay in Canada.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Services d'intégration Si la plupart des universités offrent des services de consultation et de soutien parascolaires, de même que des services d'aide aux études, aux étudiants étrangers, Mme Timmons, de la University of Prince Edward Island, s'est dite surprise de constater que seuls 47 pour cent des établissements offrent des programmes visant spécifiquement à assurer que le séjour des étudiants étrangers au Canada soit une expérience réussie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Her university has put in place the ambassador family program to support international students and help them integrate in the community.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La University of Prince Edward Island a mis en place un programme de familles ambassadrices qui a pour objectif de soutenir les étudiants étrangers et de faciliter leur intégration à la collectivité.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Through the program, local families adopt international students for a term, inviting them for dinner from time to time and being there in times of crisis.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans le cadre de ce programme, des familles locales adoptent des étudiants étrangers pour un semestre, les accueillent pour dîner de temps à autre et les soutiennent pendant les moments difficiles.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Other campuses have integrated international students in a number of ways, from the creation of a</seg></tuv>
+      <tuv xml:lang="fr"><seg>D'autres campus ont eu recours à divers moyens pour intégrer les étudiants étrangers, qu'il s'agisse de la création d'un groupe de discussion sur Facebook ou de services de consultation offerts</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Aminata Diena Ep Ndiaye, left, is a student from Senegal doing predoctoral research in preschool and primary education at the Université de Sherbrooke.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Aminata Diena Ep Ndiaye, à gauche, est une étudiante sénégalaise qui effectue de la recherche prédoctorale dans le domaine de l'éducation préscolaire et primaire à l'Université de Sherbrooke.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Internationalization of the curriculum The internationalization of the curriculum - that is, the effort to introduce an international, intercultural or global dimension into course content and materials and into teaching and learning methods - makes the teaching process more relevant for international students on campus and provides an avenue for Canadian students to develop global perspectives and skills at home. and awards for excellence, or a top-down exercise, starting from the wider institutional mission, stated goals and objectives to be operationalized by each department.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Internationalisation des programmes d'études L'internationalisation des programmes d'études, c'est-à-dire l'effort destiné à intégrer une dimension internationale, interculturelle et mondiale au contenu des cours, au matériel utilisé ainsi qu'aux méthodes d'enseignement et d'apprentissage, améliore la pertinence du processus d'enseignement pour les étudiants étrangers et permet aux étudiants canadiens d'acquérir ici même une vision et des compétences mondialisées. dant qui prend naissance dans la mission de l'établissement et qui se concrétise par des buts et des objectifs poursuivis par chaque département.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The review process of new/revised courses can take considerable time to ensure they meet rigorous quality assurance policies and practices.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le processus d'évaluation des nouveaux cours ou des cours modifiés peut exiger énormément de temps, car il faut voir au respect des politiques et des pratiques rigoureuses en matière d'assurance de la qualité.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Dr. Embleton, of York University, emphasized for her part that "small wins" and "small successes" - one course at a time - can sometimes go a long way toward internationalizing the curriculum, without always requiring lengthy Senate approvals.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Mme Embleton, de l'Université York, a pour sa part rappelé que « petit train va loin » et que des modifications mineures, un cours à la fois, contribuent aussi à l'internationalisation d'un programme sans pour autant enclencher le long processus d'approbation par le Sénat.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Participants agreed that the main focus must be on linking internationalization to learning outcomes.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les participants étaient d'avis que l'accent doit principalement être mis sur les liens entre l'internationalisation et les résultats d'apprentissage.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What do graduates need to be prepared for the world and for the international and intercultural dimension of life in Canada?</seg></tuv>
+      <tuv xml:lang="fr"><seg>De quoi les diplômés ont-ils besoin pour évoluer dans le monde et intégrer la dimension internationale et interculturelle de la vie au Canada?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Faculty members need to expose their students to various cultural perspectives and be mindful that the world is the point of reference for curriculum development in their discipline.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les professeurs doivent exposer leurs étudiants à diverses perspectives culturelles et garder à l'esprit que le monde est le point de référence pour l'élaboration des cours dans leur discipline.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The community service learning component of the university mission must be internationalized as well, added Dr. Knight from the University of Alberta, by providing experiential learning opportunities in other countries or settings.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le volet de services à la collectivité de la mission universitaire doit également être internationalisé, a ajouté M. Knight, de la University of Alberta, en offrant des possibilités d'apprentissage par l'expérience dans d'autres pays ou contextes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This can take the form of experiences such as his institution's United Nations simulation for high school students or internships in the community at the home institution and in a foreign country for credit.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ces expériences peuvent prendre la forme de la simulation de l'Organisation des Nations Unies à l'intention des élèves du secondaire, mise sur pied par son établissement, ou de stages communautaires menant à l'obtention de crédits, réalisés à l'établissement d'attache et dans un pays étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Universities can leverage a number of resources for internationalizing the curriculum.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les universités peuvent exploiter un certain nombre de ressources pour internationaliser leurs programmes d'études.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They can tap into the commitment of faculty members who are from abroad and include students' prior international experience - both incoming international students and Canadian students returning from study abroad.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles peuvent tirer parti de l'engagement de professeurs originaires d'un autre pays et des expériences vécues par les étudiants à l'étranger, tant les étudiants étrangers que les étudiants canadiens qui ont effectué un séjour d'études à l'extérieur du Canada.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Faculty members can also take advantage of information and communication technologies to link with their international colleagues for teaching and research collaboration and to hold interactive classes linking students across institutions in different countries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les professeurs peuvent également utiliser les technologies de l'information et des communications pour établir des liens de collaboration en enseignement et en recherche avec des collègues à l'étranger et pour animer des classes interactives qui relient des étudiants qui fréquentent des établissements situés dans différents pays.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Reviewing the curriculum Participants debated whether internationalization of the curriculum should be a bottom-up exercise, with incentives</seg></tuv>
+      <tuv xml:lang="fr"><seg>Révision des programmes Les participants à l'atelier se sont demandé si l'internationalisation des programmes d'études doit être un processus ascendant assorti de mesures d'encouragement et de prix d'excellence, ou un processus descen-</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Originally from Rwanda, Joséphine Mukamurera, above, brings an international perspective to her teaching of pedagogy at the Université de Sherbrooke.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Originaire du Rwanda, Joséphine Mukamurera apporte une perspective internationale à son enseignement au département de pédagogie de l'Université de Sherbrooke.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>the context of their respective literature.</seg></tuv>
+      <tuv xml:lang="fr"><seg>l'ensemble de l'université à un département des langues responsable de l'enseignement indissociable des langues et de leur littérature.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Participants recognized that different languages require different methods of teaching, with some taught in a more applied way.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les participants ont convenu que les langues nécessitent des méthodes d'apprentissage variées, certaines devant être enseignées selon une approche plus pratique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Each institution must resolve the issue of whether language should be taught as a skill or as an academic pursuit.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Chaque établissement doit déterminer si les langues doivent être enseignées comme une compétence ou comme un objectif d'apprentissage en soi.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sharing best practices The desire for sharing best practices on internationalizing the curriculum was evident.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pratiques exemplaires Le désir de diffuser les pratiques exemplaires en matière d'internationalisation des programmes d'études est clairement ressorti de l'atelier.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Participants suggested a compilation and profiling of success stories, for instance as a list of 100 simple tips, to help set direction at their institutions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les participants ont proposé de compiler des histoires de réussite et de dresser une liste de 100 conseils simples, par exemple, afin d'orienter les efforts des établissements.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Yet participants realize that the need for language training is greater than ever in the context of globalization.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils reconnaissent toutefois que l'enseignement des langues est plus important que jamais en cette ère de mondialisation.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>What is the image of Canadians in the world if they are mostly unilingual, they asked.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans le cadre des programmes d'études conjoints, les étudiants effectuent une partie de leur apprentissage au Canada, et une autre dans un pays étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Address: 1) Artist?Title of the artwork?Date?Technique?Dimensions?Public sale price?Net price for the lender/owner Terms and conditions The gallery can grant a maximum discount of ___% of the public price of the artwork as agreed with the lender/owner before the sale.?Duration of the loan: __________ extension if required as agreed with the lender/owner.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Adresse : 1) Artiste?Titre de l'oeuvre?Date?Technique?Dimensions?Prix de vente public?Prix net pour le prêteur/le propriétaire Modalités La galerie peut concéder une remise maximum de ___ % sur le prix public de l'oeuvre en accord avec le prêteur/propriétaire avant la vente.?Durée de l'emprunt : __________ prolongation si nécessaire en accord avec le prêteur/propriétaire.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The gallery is responsible for all artwork damage or loss during this period.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La galerie prend en charge tout dommage ou perte de l'oeuvre survenant pendant cette période.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The lender/owner certifies that he is the owner or the authorized agent of the artwork and that the gallery can sell the artwork in accordance with the above terms and conditions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le prêteur/propriétaire certifie être le propriétaire ou le mandataire habilité de l'oeuvre déposée et que la galerie est habilitée à vendre l'oeuvre conformément aux conditions ci-dessus.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Artworks landed for exhibits and potential sale Signed at , on Gallery ??Lender/owner</seg></tuv>
+      <tuv xml:lang="fr"><seg>OEuvres prêtées pour exposition et vente éventuelle Fait à____, le Galerie ??Prêteur/propriétaire</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Signed at , on Gallery ??Lender?Received that day</seg></tuv>
+      <tuv xml:lang="fr"><seg>[ Page précédente _BAR_ Table des matières _BAR_ Page suivante ]</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Appendix VII Map of the Regions of France</seg></tuv>
+      <tuv xml:lang="fr"><seg>Annexe VII Carte des régions de France</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This guide provides useful advice on how to deal with the specialized art media and explains the administrative procedures to follow in order to export artworks in France, for example, insurances, transport, customs, applicable taxes, etc.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il renferme des conseils utiles sur la façon de traiter avec les médias spécialisés en art, il explique les formalités administratives à remplir pour exporter des oeuvres d'art en France, par exemple les assurances, le transport, les douanes, les taxes applicables, etc.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Finally, it provides other information on material considerations such as accommodations and the establishment of an art gallery, and on the financial assistance from different departments and public and private organizations.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Enfin, il fournit d'autres renseignements sur des considérations matérielles telles que l'hébergement et la création d'une galerie d'art, et l'aide financière accordée à cette fin par divers ministères et organismes publics et privés.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We hope this guide will help promote and enhance the artistic trades between Canada and France, and that it will reinforce the success of Canadian companies exporting contemporary artworks in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Nous espérons que le présent guide contribuera à favoriser et à accroître les échanges artistiques entre le Canada et la France, et confortera la réussite des entreprises canadiennes exportatrices d'oeuvres d'art contemporain en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Cultural Policy in France The French cultural policy is based on initiatives by the Ministry of Culture and Communication, in partnership with the territorial communities.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La politique culturelle de la France La politique culturelle française repose sur des initiatives mises sur pied par le ministère de la Culture et de la Communication en partenariat avec les collectivités territoriales.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Its main goal is to assist and disseminate new French and foreign creation both in Paris and in the regions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Son principal objectif consiste à soutenir et à diffuser la jeune création française et étrangère à Paris et en région.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Since 2000, the Ministry of Culture and Communication carries on its role of assisting world trade through its public service mission statement for the contemporary art institutions, which is to better inform on the government policy by reinforcing the capacity of art schools, regional contemporary art funds and art centres.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Depuis 2000, le ministère de la Culture et de la Communication poursuit sa vocation de soutien aux échanges internationaux grâce à son énoncé de mission de service public auprès des institutions d'art contemporain : mieux faire connaître la politique de l'État en renforçant les fonctions des écoles d'art, des fonds régionaux d'art contemporain et des centres d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The information contained in this guide will allow Canadian artists and gallery owners to promote their activities in France while taking advantage of all the resources made available to them, such as getting to be known, the different assistance available, the exhibits and the sales.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les informations contenues dans le présent guide permettront aux artistes et galeristes canadiens de promouvoir leurs activités en France en exploitant toutes les ressources mises à leur disposition, telles que le tremplin d'identité, les diverses aides disponibles, les expositions et les ventes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In order to better understand and facilitate access to the national structure of contemporary art in France, we will present in the following pages relevant information on the cultural and artistic institutions, the services offered and the contact persons.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Afin de mieux comprendre et de faciliter l'accès à la structure nationale de l'art contemporain en France, nous présentons dans les pages qui suivent des informations pertinentes sur les institutions culturelles et artistiques, les services offerts et les personnes-ressources.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Institutional Structure</seg></tuv>
+      <tuv xml:lang="fr"><seg>La structure institutionnelle</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 2.2 The Regions ? 2.1 Paris - Île-de-France 2.1.1 Délégation aux arts plastiques Under the direct control of the Ministry of Culture, the Délégation aux arts plastiques (DAP) defines and implements the government policy in the plastic art sector by the following means:</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 2.2 Les régions ? 2.1 Paris - Île-de-France 2.1.1 Délégation aux arts plastiques Relevant directement du ministère de la Culture, la Délégation aux arts plastiques (DAP) définit et met en oeuvre la politique de l'État dans le secteur des arts plastiques par les moyens suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o creation incentive;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o incitation à la création;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o assistance to creators, gallery owners and editors, and training of the latter concerning acquisitions and orders;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o aide aux créateurs, aux galeristes et aux éditeurs, et formation de ces derniers au chapitre des acquisitions et des commandes;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o dissemination of every form of plastic art to the public, such as painting, sculpting, graphic arts, photography, arts and crafts, design, industrial creation, fashion, videograms and computer synthesized images, comic strips, etc.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o diffusion auprès du public de toutes les formes de l'expression plastique, telles que la peinture, la sculpture, les arts graphiques, la photographie, les métiers d'art, le design, la création industrielle, la mode, les vidéogrammes et images de synthèse, la bande dessinée, etc.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>DAP is especially responsible for the procedure of public commissions, the issues related to plastic art professions, the planning and implementation of the training policy, as well as the pedagogic monitoring of the plastic art educational institutions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La DAP est notamment chargée de la procédure de commandes publiques, des questions relatives aux professions oeuvrant dans le domaine des arts plastiques, de la préparation et de la mise en oeuvre de la politique de formation, ainsi que du contrôle pédagogique des établissements d'enseignement des arts plastiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It works with private and public stakeholders in the plastic art sector.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle agit en liaison avec les organismes privés et publics qui interviennent dans le domaine des arts plastiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Olivier Kaeppelin 2.1.2 Centre national des arts plastiques The Centre national des arts plastiques (CNAP) is the public agency that manages the intervention credits that come under the DAP.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Olivier Kaeppelin 2.1.2 Centre national des arts plastiques Le Centre national des arts plastiques (CNAP) est l'organisme public qui gère les crédits d'intervention relevant de la DAP.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It acts on behalf of the State for the purchasing and commissioning of artworks and provides financial assistance to the Fonds national d'art contemporain.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il agit pour le compte de l'État au chapitre des achats et des commandes d'oeuvres d'art et il apporte son soutien financier au Fonds national d'art contemporain.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It also engages in the operation of national art schools and allocates funding to assist contemporary art creation as well as technique transmission and development.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il assure également le fonctionnement des écoles d'art nationales et alloue des fonds pour soutenir la création de l'art contemporain, la transmission et le développement des techniques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>2.1.3 Fonds national d'art contemporain The Fonds national d'art contemporain (FNAC) is the biggest international collection of living arts in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>2.1.3 Fonds national d'art contemporain Le Fonds national d'art contemporain (FNAC) est la plus grande collection internationale d'art vivant rassemblée en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This collection has been established in the past two centuries through purchases and commissions by the State from evolving artists and it includes about 70,000 artworks, from plastic arts to photography, decorative arts and design.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Constituée depuis deux siècles par les achats et commandes effectués pour le compte de l'État auprès des artistes en activité, la collection est riche d'environ 70 000 oeuvres relevant aussi bien des arts plastiques et de la photographie, que des arts décoratifs et du design.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FNAC is located in a 4,500 m2 building under the Défense à Puteaux's esplanade.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le FNAC est installé dans un bâtiment de 4 500 m2 situé sous l'esplanade de la Défense à Puteaux.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The artworks are not exhibited and are exclusively earmarked to be stored in museums and administrations or to be loaned for exhibits in France or in other countries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les oeuvres n'y sont pas exposées; elles sont exclusivement destinées à être mises en dépôt dans les musées et les administrations ou à être prêtées lors d'expositions en France et à l'étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The first objective of the FNAC is to establish a living heritage for the State.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La première mission du FNAC est de constituer pour le compte de l'État un patrimoine vivant.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To do so, it has a budget of about 4.7 millions dollars [3.2 millions euros]1 which allows the purchase of between 600 and 1,000 artworks from contemporary artists and creators of all nationalities.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour ce faire, il dispose d'un budget de l'ordre de 4,7 millions de dollars [3,2 millions d'euros]1 qui lui permet d'acquérir chaque année auprès d'artistes et créateurs contemporains de toutes nationalités entre 600 et 1 000 oeuvres.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Please note that the FNAC's budget has not changed since 1998.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il convient de signaler que le budget du FNAC est resté le même depuis 1998.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>However, more items were purchased.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En revanche, un plus grand nombre de pièces ont été acquises.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A total of 632 artworks have been purchased from 257 creators and are distributed as follows:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Au total, 632 oeuvres d'art ont été achetées auprès de 257 créateurs et sont réparties comme suit :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 154 paintings, sculptures and graphic art items;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 154 oeuvres de peinture, de sculpture et d'arts graphiques;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 257 photos;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 257 photographies;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 221 decorative art, design and craft items.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 221 pièces d'art décoratif, de design et de métiers d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FNAC purchases 60% of its artworks through private galleries and 20% are from abroad; also, two foreign galleries have bought artistic photos.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le FNAC acquiert 60 % de ses oeuvres auprès de galeries privées, dont 20 % sont des galeries étrangères; aussi, deux galeries étrangères ont acheté des oeuvres photographiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>From 1998 to 2002, 22 artworks were purchased from 11 Canadian artists (Alloucherie, Arden, Collyer, Farley, Gehry, General Idea, Graham, Racine, Riopelle, Snow and Wallace).</seg></tuv>
+      <tuv xml:lang="fr"><seg>De 1998 à 2002, 22 oeuvres ont été acquises de 11 artistes canadiens (Alloucherie, Arden, Collyer, Farley, Gehry, General Idea, Graham, Racine, Riopelle, Snow et Wallace).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Half of these artworks were artistic photos.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La moitié de ces oeuvres était constituée de photographies artistiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To date, the FNAC collection includes 191 artworks from 49 Canadian artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>À ce jour, la collection du FNAC comprend 191 oeuvres exécutées par 49 artistes canadiens.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Purchase procedure The purchasing propositions are examined by consultative commissions, depending on the field, that meet a few times a year under the chairmanship of the plastic art delegate.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Procédure d'achat Les propositions d'achats sont examinées par des commissions consultatives, différentes selon les domaines, qui se réunissent plusieurs fois par an sous la présidence du Délégué aux arts plastiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These commissions, which are renewed every three years, are made up of four administration representatives (five for photography) and nine members (two artists and seven public figures) appointed by the minister of Culture and Communication.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Renouvelées tous les trois ans, ces commissions se composent de quatre (cinq pour la photographie) représentants de l'administration et de neuf membres (deux artistes et sept personnalités) nommés par le ministre de la Culture et de la Communication.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are two types of acquisition sessions of artworks:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il existe deux types de sessions d'acquisition d'oeuvres d'art :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the "open" sessions take place once a year and are limited to individual propositions;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o les sessions « ouvertes », qui ont lieu une fois par an et qui sont limitées aux propositions individuelles;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the "closed" sessions, in the case of artworks presented by rapporteurs.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o les sessions « fermées », dans le cas d'oeuvres présentées par des rapporteurs.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is important to note that the FNAC is the only institution where an artist can sell an artwork on his own account, which is not the case for the regional and museum contemporary art funds.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il importe de signaler que le FNAC est la seule institution où un artiste peut vendre une oeuvre pour son propre compte, ce qui n'est pas le cas des Fonds régionaux d'art contemporain et des musées.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Claude Allemand-Cosneau Office Manager:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Claude Allemand-Cosneau Chef du bureau :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Geneviève Pesson 01 46 93 02 54 Assistant:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Geneviève Pesson 01 46 93 02 54 Adjointe :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Martine Patureaud 01 46 93 02 55 Purchases, plastic arts:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Martine Patureaud 01 46 93 02 55 Achats arts plastiques :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Marielle Bonnand 01 46 93 02 57 Purchases, design:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Marielle Bonnand 01 46 93 02 57 Achats design :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Danielle Catherine 01 46 93 02 56 Purchases, photography:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Danielle Catherine 01 46 93 02 56 Achats photographie :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Sylvie Vitrouille 01 46 93 02 59 2.1.4 Direction des musées de France The Direction des musées de France (DMF) proposes and implements the State policy for museographical heritage.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Sylvie Vitrouille 01 46 93 02 59 2.1.4 Direction des musées de France La Direction des musées de France (DMF) propose et met en oeuvre la politique de l'État en matière de patrimoine muséographique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It also ensures the collaboration of different public authorities in the sector.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle s'assure en outre de la collaboration des divers pouvoirs publics dans ce domaine.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For each location, important collections of contemporary art have been established according to specific criteria (thematic, geographic and cultural) thanks to the assistance of the Direction des musées de France and the Fonds régionaux d'acquisition pour les musées (FRAM).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour chaque lieu, d'importantes collections d'art contemporain constituées en fonction de critères précis (thématiques, géographiques et culturels) ont été créées grâce au soutien de la Direction des musées de France et des Fonds régionaux d'acquisition pour les musées (FRAM).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Between 1989 and 1999, the Musée national d'art moderne (MNAM) purchased 14,000 artworks, from which only 6% were bought from private galleries; 2.5% of which were foreign galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Entre 1989 et 1999, le Musée national d'art moderne (MNAM) a acquis 14 000 oeuvres; seules 6 % d'entre elles ont été achetées auprès de galeries privées, dont 2,5 % sont des galeries étrangères.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The MNAM purchased 72 Canadian artworks and 204 American artworks.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le MNAM a acheté 72 oeuvres canadiennes et 204 proviennent des États-Unis.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bruno Racine 2.2 The Regions 2.2.1 Directions régionales des affaires culturelles The Directions régionales des affaires culturelles (DRACs)' mandate is to enforce the cultural policy described by the government and implemented by the Ministry of Culture under the authority of the region's prefect and the department prefects.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Bruno Racine 2.2 Les régions 2.2.1 Directions régionales des affaires culturelles Les Directions régionales des affaires culturelles (DRAC) ont pour mandat d'appliquer la politique culturelle définie par le gouvernement et mise en oeuvre par le ministère de la Culture sous l'autorité du préfet de région et des préfets des départements.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Here are some of the main objectives of the DRACs:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Au nombre des principaux objectifs des DRAC, mentionnons les suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o spearhead the State's cultural action;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o animer l'action de l'État en matière culturelle;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o ensure consistency in the regional level of the public interventions in relation to cultural development;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o assurer la cohérence au niveau régional des interventions publiques dans le développement culturel;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o propose and implement actions adapted to the regional context.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o proposer et mettre en oeuvre des mesures adaptées au contexte régional.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The DRACs award grants for exhibits, workshops and publications.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les DRAC octroient des subventions pour les expositions, les ateliers et les publications.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They also ensure the credit distribution for the purchase of artworks by museums.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles assurent également la répartition des crédits destinés à l'acquisition d'oeuvres d'art par les musées.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These decisions are made by the Fonds régional d'acquisition des musées (FRAM)'s committee, whose funding is jointly covered by the State and the regional council.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les décisions à cet égard sont prises par le comité du Fonds régional d'acquisition des musées (FRAM), dont le financement est assuré conjointement par l'État et le conseil régional.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The plastic art advisor plays an important role, under the authority of the regional director of cultural affairs.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Placé sous l'autorité du directeur régional des affaires culturelles, le conseiller pour les arts plastiques joue un rôle important.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>He implements, on the regional level and in his field of expertise (painting, sculpture, graphic arts, design, decorative arts, photography, audiovisual and new imaging technologies), the State's policy for plastic arts.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il met en oeuvre, au niveau régional et dans son champ de compétence (peinture, sculpture, arts graphiques, design, arts décoratifs, photographie, audiovisuel et nouvelles technologies de l'image), la politique de l'État pour les arts plastiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They are funded equally by the State (through the DRACs) and the region.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils sont financés à parité par l'État (par l'intermédiaire des DRAC) et par la région.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FRACs play a decisive role in the art market upturn and the assistance of young artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les FRAC jouent un rôle décisif dans la relance du marché de l'art et le soutien aux jeunes artistes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They are composed of 15,000 artworks produced by 3,000 artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils sont constitués de 15 000 oeuvres exécutées par 3 000 artistes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Since 1998, a new FRAC has been established, which brings the total to 26.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Depuis 1998, un nouveau FRAC a été constitué, ce qui porte leur nombre à 26.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Furthermore, the 2001 budget was improved by 33% compared to the 2000 budget, thanks to the allocation by the DAP of an art acquisition credit of 4.4 million dollars [3 million euros], which represents an average cost of about $27,000 [EUR18,000 ] per artwork2.</seg></tuv>
+      <tuv xml:lang="fr"><seg>De plus, le budget de 2001 a été bonifié de 33 % par rapport au budget de 2000, grâce à l'attribution par la DAP d'un crédit pour l'acquisition d'oeuvres d'art de 4,4 millions de dollars [3 millions d'euros], soit un coût moyen par oeuvre d'environ 27 000 $ [18 000 EUR]2.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>More and more artworks from foreign artists are purchased through the FRACs.</seg></tuv>
+      <tuv xml:lang="fr"><seg>De plus en plus de pièces de créateurs étrangers sont achetées par les FRAC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>From 1998 to 2002, 10 artworks were purchased from six Canadian artists (General Idea, Lisa Milroy, Michael Snow, Ian Wallace, Serge Clément and Robin Collyer).</seg></tuv>
+      <tuv xml:lang="fr"><seg>De 1998 à 2002, 10 oeuvres ont été achetées à six artistes canadiens (General Idea, Lisa Milroy, Michael Snow, Ian Wallace, Serge Clément et Robin Collyer).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Globally, 390 artworks made by 85 Canadian artists were purchased for the full spectrum of French public collections (FNAC, FRACs, museums, etc.). Purchase procedure The FRACs have a technical acquisition committee responsible to the board for the propositions of artwork acquisitions.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Au total, 390 oeuvres exécutées par 85 artistes canadiens ont été acquises pour l'ensemble des collections publiques françaises (FNAC, FRAC, musées, etc.). Procédure d'achat Les FRAC disposent d'un comité technique des achats chargé de proposer les acquisitions d'oeuvres au conseil d'administration.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The technical acquisition committees include five to seven members: the FRAC's director, a representative of territorial communities and four to six outside volunteer members chosen for the expertise (e.g. curator, arts critic, structure director, and collector).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les comités techniques des achats se composent de cinq à sept membres : le directeur du FRAC, un représentant des collectivités territoriales et quatre à six membres bénévoles provenant de l'extérieur choisis pour leur expertise (p. ex., conservateur, critique d'art, directeur de structure, collectionneur).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These volunteer members are appointed for a three year mandate.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ces membres bénévoles sont nommés pour un mandat de trois ans.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Artists are very seldom appointed to sit on those committees.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il arrive assez rarement que des artistes soient désignés pour siéger à ces comités.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The FRAC's director manages the technical acquisition committee, is responsible for the secretariat and compiles the acquisition propositions that he will then present to the board.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le directeur du FRAC, pour sa part, anime le comité technique des achats, est responsable du secrétariat et rassemble les propositions d'acquisitions, qu'il présente ensuite au conseil d'administration.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In general, the artworks are purchased from galleries but sometimes directly from the artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En règle générale, les oeuvres sont acquises auprès des galeries mais il peut arriver qu'elles le soient directement des artistes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is essential to contact the FRACs directors and the plastic art advisors who are open to international purchases.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il est essentiel d'entrer en contact avec les directeurs des FRAC et les conseillers aux arts plastiques, qui sont ouverts à des achats internationaux.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The list of the FRACs and their addresses can be found on the website http://www.cnap.fr. Videomuseum is another reference for useful information on the French collections mentioned above.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La liste des FRAC et leurs adresses figure sur le site Internet http://www.cnap.fr. Videomuseum constitue également une autre source de renseignements utiles sur les collections françaises dont il est question plus haut.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Its website presents a database that identifies all the French public art collections of the 20th century, which is often updated.</seg></tuv>
+      <tuv xml:lang="fr"><seg>On peut consulter sur son site Internet une banque de données recensant toutes les collections publiques françaises d'art du XXe siècle, laquelle est mise à jour régulièrement.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Jean-François Depelsenaire and Maria-Sofia de Fouchier 2.2.3 Contemporary art centres The contemporary art centres are institutions that usually have the association status (act of 1901), and their first goal is to be used as experimental labs and as creation and artwork production spaces.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Jean-François Depelsenaire et Maria-Sofia de Fouchier 2.2.3 Centres d'art contemporain Les centres d'art contemporain sont des institutions ayant généralement le statut d'association (loi de 1901), dont le but premier est de servir de laboratoire expérimental et de lieu de création et de production d'oeuvres d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Their mandate is limited to contemporary art, especially its most actual form.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Leur mandat se limite à l'art contemporain, en particulier à sa création la plus actuelle.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The total budget of 2001 for the contemporary art centres was 7.1 million dollars [4.8 millions euros].</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le budget global de 2001 des centres d'art contemporain s'élevait à 7,1 millions de dollars [4,8 millions d'euros].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The contemporary art centres, across 16 regions of France, went from 29 to 38 and four of them specialize in photography.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les centres d'art contemporain, répartis dans 16 régions de France, sont passés de 29 à 38, dont quatre se spécialisent en photographie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are also two national art centres: the Centre national de la photographie and la Galerie du Jeu de Paume, both located in Paris.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il existe également deux centres d'art nationaux : le Centre national de la photographie et la Galerie du Jeu de Paume, tous deux situés à Paris.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The art centres do not have permanent collections.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les centres d'art n'ont pas de collections permanentes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>However, they publish catalogues and artist books, which allows for a good dissemination of the art among the media.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Par contre, ils publient des catalogues et des livres d'artistes, ce qui permet une bonne circulation de l'art auprès des médias.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They also organize exhibits, conferences, seminars and meetings with artists, commission more and more and monitor the artwork production.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ils organisent également des expositions, des conférences, des colloques et des rencontres avec les artistes, placent de plus en plus des commandes et veillent à la production d'oeuvres.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Some of them even provide a residency program for artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Certains disposent même à cette fin d'un programme de résidences d'artistes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Participating to a collective exhibit or being part of the program schedule of an art centre contributes to greatly revitalize an artist's career.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le fait de participer à une exposition collective ou de figurer à la programmation d'un centre d'art dynamise beaucoup la carrière d'un artiste.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONTEMPORARY ART CENTRES ACTIVE IN PRESENTING CANADIAN ARTISTS AND EXCHANGING WITH THEM Le Creux de l'Enfer?Vallée des Usines?85, avenue Joseph Chaussat ?63 300 Thiers?Tel.: 04 73 80 26 56 ?Fax: 04 73 80 28 08?Email: info@creuxdelenfer.net ?Website: http://www.creuxdelenfer.net ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>CENTRES D'ART CONTEMPORAIN ACTIFS DANS LA PRÉSENTATION ET L'ÉCHANGE D'ARTISTES AVEC LE CANADA Le Creux de l'Enfer?Vallée des Usines?85, avenue Joseph Chaussat ?63 300 Thiers?Tél. : 04 73 80 26 56 ?Téléc. : 04 73 80 28 08?Courriel : info@creuxdelenfer.net?Site Internet : http://www.creuxdelenfer.net?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Frédéric Bouglé Centre régional d'art contemporain - Le 19?19, avenue des Alliés ?25 200 Montbéliard Cedex?Tel.: 03 81 94 43 58 ?Fax: 03 81 94 61 51?Email: dix-neuf.crac@wanadoo.fr ?Website: http://www.le-dix-neuf.asso.fr ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Frédéric Bouglé Centre régional d'art contemporain - Le 19?19, avenue des Alliés ?25 200 Montbéliard Cedex?Tél. : 03 81 94 43 58 ?Téléc. : 03 81 94 61 51?Courriel : dix-neuf.crac@wanadoo.fr ?Site Internet : http://www.le-dix-neuf.asso.fr ?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Gilles Forest Centre régional d'art contemporain Languedoc Roussillon-Septimanie?26, quai Aspirant-Herber ?34 200 Sète?Tel.: 04 67 74 94 37 ?Fax: 04 67 74 23 23?Email: craclr@wanadoo.fr ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Gilles Forest Centre régional d'art contemporain Languedoc Roussillon-Septimanie?26, quai Aspirant-Herber ?34 200 Sète?Tél. : 04 67 74 94 37 ?Téléc. : 04 67 74 23 23?Courriel : craclr@wanadoo.fr ?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Xavier Douroux and ?Franck Gautherot La Villa Arson?20, avenue Stephen Liégeard?06 105 Nice Cedex 2?Tel.: 04 92 07 73 73 / 04 93 84 41 55?Email: bouillon@villa-arson.fr ?Website: http://www.villa-arson.org/ ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Noëlle Tissier Le Consortium - L'Usine?16, rue Quentin?21 000 Dijon?Tél. : 03 80 68 45 55 ?Téléc. : 03 80 68 45 57?Courriel : leconsortium@wanadoo.fr ?Site Internet :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Le Centre d'art contemporain Passages ?9, rue Jeanne d'Arc?10 000 Troyes?Tel.: 03 25 73 28 27 ?Fax: 03 25 73 25 95?Email: cac.passages@wanadoo.fr ?Website: http://www.art-contemporain.eu.org/passages?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Laurence Gateau Le Centre d'art contemporain Passages ?9, rue Jeanne d'Arc?10 000 Troyes?Tél. : 03 25 73 28 27 ?Téléc. : 03 25 73 25 95?Courriel : cac.passages@wanadoo.fr ?Site Internet : http://www.art-contemporain.eu.org/passages?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Notes 1 Overall, the euro values were converted in Canadian dollars using the average rate of 2002, i.e. EUR1 = Can$ 1.4832.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Notes 1 Dans l'ensemble du texte, les valeurs en euros ont été converties en dollars canadiens au taux moyen pour l'année 2002, soit 1 EUR = 1,4832 $CAD.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This conversion rate originates from the Bank of Canada and can be checked on the following page: &lt;http://www.banqueducanada.ca/pdf/nraa02.pdf&gt; (accessed on November 14th 2005).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce taux de conversion provient de la Banque du Canada, et il peut être vérifié à l'adresse suivante : &lt;http://www.banqueducanada.ca/pdf/nraa02.pdf&gt; (accédé le 14 novembre 2005).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Moreover, the Canadian currency values were generally rounded.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Par ailleurs, les valeurs en devises canadiennes ont été généralement arrondies.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>2 More information can be found on the FRACs budget in Annex 1 of this guide entitled Table on the Evolution of the Delegated Budget for the FRACs from 1988 to 2000 on page 108 .</seg></tuv>
+      <tuv xml:lang="fr"><seg>2 On trouvera plus de détails sur le budget des FRAC à l'annexe I du présent guide, Tableau d'évolution du budget alloué aux FRAC de 1988 à 2000, à la page 108.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Proposed Assistance</seg></tuv>
+      <tuv xml:lang="fr"><seg>Aides proposées</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 3.3 External Structures Assistance ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 3.3 Aide à des structures extérieures ?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 3.4 Congrès interprofessionnel de l'art contemporain ? The public purchasing policies in France play a critical role for artists and private galleries because they support new creation that could disappear without government assistance.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 3.4 Congrès interprofessionnel de l'art contemporain ? Les politiques d'achats publics en France jouent un rôle crucial pour les artistes et les galeries privées, car elles soutiennent la création avant-gardiste qui tendrait à disparaître sans l'aide de l'État.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Délégation aux arts plastiques acknowledges the primary role played by the galleries for artists in relation to their work development in supporting them for the first exhibit, the first catalogue or to participate to foreign trade shows.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La Délégation aux arts plastiques reconnaît le rôle primordial que les galeries jouent auprès des artistes dans le développement de leur travail en accordant une aide pour la première exposition, le premier catalogue ou en leur permettant de participer à des foires étrangères.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the following pages, we will present different ways of assistance, some of which have just been recently introduced.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Dans les pages qui suivent, nous présentons les divers soutiens existants et les nouvelles aides récemment mises sur pied.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.1 Fonds d'incitation à la création The Fonds d'incitation à la création (Fiacre), an organization under the control of the Ministry of Culture (Délégation aux arts plastiques), has had the mission, for more than ten years, to allocate selective funds to artists and professionals in all fields of contemporary creation.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.1 Fonds d'incitation à la création Le Fonds d'incitation à la création (Fiacre), organisme sous tutelle du ministère de la Culture (Délégation aux arts plastiques), a pour mission depuis plus de dix ans d'attribuer des aides ponctuelles aux artistes et professionnels dans tous les domaines de la création contemporaine.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In 2001, the total budget of the Fiacre was 1.25 million dollars [0.84 million euros].</seg></tuv>
+      <tuv xml:lang="fr"><seg>En 2001, le budget global du Fiacre s'élevait à 1.25 millions de dollars [0,84 million d'euros].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The assistance provided through that fund can take various forms.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'aide octroyée par ce fonds peut prendre diverses formes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.1.1 Research Assistance This type of assistance allows the allocation, through the Fiacre national consultative commission, of selective and specific allowances for research in fields of contemporary creation, from video to new media, to design and decorative art, graphic design and comic strips.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.1.1 Aide à la recherche Cette forme d'aide permet l'attribution, par la commission nationale consultative du Fiacre, d'allocations ponctuelles et spécifiques servant à la recherche dans tous les domaines de la création contemporaine, allant de la vidéo et des nouveaux médias, en passant par le design et les arts décoratifs, le graphisme et la BD.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This assistance is intended for artists and creation professionals, as well as for foreign artists that have a mailing address in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Cette aide est destinée aux artistes et professionnels de la création ainsi qu'aux artistes étrangers possédant une adresse en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For example, 18 research allowances were allocated in 2001, for a total of $239,685 [EUR161,600].</seg></tuv>
+      <tuv xml:lang="fr"><seg>À titre d'exemple, 18 allocations de recherche ont été attribuées en 2001, pour un total de 239 685 $ [161 600 EUR].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For more information, visit the CNAP website http://www.cnap.culture.gouv.fr. 3.1.2 First Exhibit Assistance This assistance is intended for the contemporary art galleries that organize a first exhibit of artworks by plastic art artists, photographers, designers or creators using new technologies.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour plus d'informations, consulter le site Internet du CNAP à l'adresse http://www.cnap.culture.gouv.fr. 3.1.2 Aide à la première exposition Cette aide est destinée aux galeries d'art contemporain qui organisent une première exposition d'oeuvres exécutées par des artistes plasticiens, photographes, designers ou créateurs utilisant des nouvelles technologies.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To receive this assistance, you must be a French or a foreign artist with some professional background and you must not have participated in an exhibit for at least five years in France or elsewhere.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour bénéficier de cette aide, il faut être un artiste français ou étranger déjà engagé dans la vie professionnelle et n'ayant pas exposé depuis au moins cinq ans en France ou à l'étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The assistance can also be granted to a group of artists as long as it is a formal group and that the members exhibit and sign under the same name.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'aide peut aussi être accordée à un groupe d'artistes à la seule condition qu'il s'agisse d'un ensemble réellement constitué, dont les membres exposent et signent sous le même nom.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The commission responsible for taking the decisions related to the grant allocations meets twice a year and is composed of certain members of the Comité professionnel des galeries d'art (CPGA), of CNAP and DAP representatives and of art critics.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La commission chargée de prendre les décisions quant à l'attribution des subventions se réunit deux fois par an et est composée de certains membres du Comité professionnel des galeries d'art (CPGA), de représentants du CNAP et de la DAP et de critiques d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The total of the allocated grant cannot exceed 50% of the total cost of expenses.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le montant de la subvention octroyée ne peut excéder 50 % du coût total des dépenses.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.1.3 Editing Assistance This assistance is intended for publishing contemporary art documents and for producing joint editions of collections.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.1.3 Aide à l'édition Il s'agit d'un soutien à la publication d'ouvrages portant sur l'art contemporain et à la réalisation d'éditions conjointes de collections.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The assistance can be allocated for the publication of the first catalogue of an artist or group of artists working together and signing under the same name.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'aide peut être octroyée pour la publication du premier catalogue d'un artiste ou d'un groupe d'artistes travaillant ensemble et signant sous le même nom.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is intended for French and foreign artists who have had a contract with a gallery for at least two years and who never had a catalogue in France or elsewhere.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle vise les artistes français et étrangers liés à une galerie par contrat depuis deux ans au moins et n'ayant jamais bénéficié d'un catalogue en France ou à l'étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This catalogue must be bilingual (in French and in one of the official languages of the artist's country) and include a text review from an author.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce catalogue doit être bilingue (en français et dans une des langues officielles du pays de l'artiste) et comporter un texte critique d'un auteur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The minimum edition is 1,000 runs.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le tirage minimum est de 1 000 exemplaires.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.1.4 International Tradeshows Assistance To promote the presence of French galleries in other countries and promote their artists, assistance is allocated to participate in the trade shows in Bâle, Chicago, Cologne and New York.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.1.4 Aide aux foires internationales Pour favoriser la présence des galeries françaises à l'étranger et promouvoir leurs artistes, une aide leur est accordée pour participer aux foires de Bâle, Chicago, Cologne et New York.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The amount varies from $4,450 to $11,420 [EUR3,000 and EUR7,700] per exhibit and must be used to pay half the cost of renting a stand (of 60m2); the galleries must devote half of that stand to French artists or creators living in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le montant de cette aide varie entre 4 450 $ et 11 420 $ [3 000 et 7 700 EUR] par exposition et doit servir à payer la moitié du coût de location du stand (de 60 m2); les galeries sont tenues de consacrer la moitié de ce stand aux artistes français ou à des créateurs résidant en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In 2001, 31 galleries3 obtained that assistance, for a total amount of $296,240 [EUR200,000].</seg></tuv>
+      <tuv xml:lang="fr"><seg>En 2001, 31 galeries3 ont bénéficié de cette aide, pour un montant global de 296 240 $ [200 000 EUR].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.1.5 Professional Artist Shows Assistance In 2001, the total amount allocated by the DAP to professional artist shows was $2,333,480 [EUR1,573,274 ].</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.1.5 Aide aux salons d'artistes professionnels En 2001, le montant global alloué par la DAP aux salons d'artistes professionnels s'élevait à 2 333 480 $ [1 573 274 EUR].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Here are the shows that benefited from that assistance:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les salons qui ont bénéficié de cette aide sont les suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Grands et jeunes d'aujourd'hui Le Fiacre?Tour Atlantique?1, place de la Pyramide?92 211 Paris La Défense?Tel.: 01 46 93 06 50?Email: francoise.brezet@culture.gouv.fr ?Website: http://www.cnap.fr ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Grands et jeunes d'aujourd'hui Le Fiacre?Tour Atlantique?1, place de la Pyramide?92 211 Paris La Défense?Tél. : 01 46 93 06 50?Courriel : francoise.brezet@culture.gouv.fr ?Site Internet : http://www.cnap.fr ?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Denis Roche 3.2 Centre de ressources du Centre national des arts plastiques This is the official DAP's website established in 2001 and intended for artists, art professionals and the general public.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Denis Roche 3.2 Centre de ressources du Centre national des arts plastiques Il s'agit du site Internet officiel de la DAP réalisé en 2001 et destiné aux artistes, aux professionnels de l'art et au grand public.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Updated daily, the Centre de ressources is an information tool on visual arts designed for the stakeholders of the contemporary art sector in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Mis à jour quotidiennement, le Centre de ressources se veut un outil d'information sur les arts visuels conçu pour les intervenants du domaine de l'art contemporain en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Easy to access, the Centre de ressources has a wealth of useful information on the activities of the plastic art sector.</seg></tuv>
+      <tuv xml:lang="fr"><seg>D'accès facile, le Centre de ressources regorge de renseignements utiles sur les activités du secteur des arts plastiques.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It publishes thematic journals, e.g. "123 questions on the social, fiscal and legal status of the plastic art artists".</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il publie des journaux thématiques, par exemple « 123 questions sur le statut social, fiscal et juridique des artistes plasticiens ».</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It includes the following information and documents:</seg></tuv>
+      <tuv xml:lang="fr"><seg>On y retrouve entre autres les renseignements et documents suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Contemporary art calendar</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Calendrier de l'art contemporain</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Directory of the contemporary art centres, including more than 1,500 addresses and listings</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Annuaire des centres d'art contemporain comportant plus de 1 500 adresses avec fiches descriptives</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Directory consolidating all locations, institutions, associations and professionals of the contemporary art sector</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Annuaire regroupant tous les lieux, institutions, associations et professionnels oeuvrant dans le domaine de l'art contemporain</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Institutional news briefs</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Fiches sur l'actualité institutionnelle</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Fiacre's registration form</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Formulaire d'inscription au Fiacre</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Support procedures for the creation and acquisition of contemporary artworks, as well as their dissemination</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Procédures de soutien à la création et à l'acquisition d'oeuvres d'art contemporain, de même qu'à leur diffusion</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o News and press section</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Rubrique actualités/presse</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Artists status</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Statuts de l'artiste</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Schooling - international interschools</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Enseignement - interécoles internationales</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Training and research in visual arts Centre de ressources du Centre national des arts plastiques ?Email: silvanareggiardo@culture.gouv.fr. ?Website: http://www.cnap.culture.gouv.fr?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Formation et recherche en arts visuels Centre de ressources du Centre national des arts plastiques ?Courriel : silvanareggiardo@culture.gouv.fr. ?Site Internet : http://www.cnap.culture.gouv.fr?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Silvana Reggiardo 3.3 External Structures Assistance There is different search assistance provided by DAP to external structures advocating a specific artistic production executed using new media.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Silvana Reggiardo 3.3 Aide à des structures extérieures Il existe différentes aides à la recherche qui sont fournies par la DAP à des structures extérieures défendant une production artistique spécifique exécutée avec de nouveaux médias.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.3.1 Centre international de recherche et de création sur le verre et les arts plastiques In 2001, the Centre international de recherche et de création sur le verre et les arts plastiques (CIRVA), located in Marseille, welcomed 20 French and foreign artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.3.1 Centre international de recherche et de création sur le verre et les arts plastiques En 2001, le Centre international de recherche et de création sur le verre et les arts plastiques (CIRVA), situé à Marseille, a accueilli 20 artistes français et étrangers.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For example, the Canadian artist Jana Sterbak and glassblowers from the Quebec glass centre came to that centre for internships.</seg></tuv>
+      <tuv xml:lang="fr"><seg>À titre d'exemple, l'artiste canadienne Jana Sterbak et des souffleurs du centre de verre de Québec ont effectué des stages dans ce centre.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Centre international de recherche et de création sur le verre et les arts plastiques ?Tel.: 04 91 56 11 50 ?Fax: 04 91 91 11 04?Email: cirva@wanadoo.fr ?Website: http://www.d-c-a.org?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Centre international de recherche et de création sur le verre et les arts plastiques ?Tél. : 04 91 56 11 50 ?Téléc. : 04 91 91 11 04?Courriel : cirva@wanadoo.fr ?Site Internet : http://www.d-c-a.org?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Françoise Guichon 3.3.2 Centre de recherche sur les arts du Feu et de la Terre The Centre de recherche sur les arts du Feu et de la Terre (CRAFT), in collaboration with industrials, welcomes plastic art artists and designers of all nationalities who work with ceramics.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Françoise Guichon 3.3.2 Centre de recherche sur les arts du Feu et de la Terre Le Centre de recherche sur les arts du Feu et de la Terre (CRAFT), en collaboration avec des industriels, reçoit des artistes plasticiens et des designers de toutes nationalités travaillant la céramique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It also maintains constant relationships with galleries, museums and art centres at the regional, national and international levels.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il est en outre en relation constante aux niveaux régional, national et international avec des galeries, des musées et des centres d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Centre de recherche sur les arts du Feu et de la Terre ?Impasse Becquerel?87000 Limoges?Tel.: 05 55 49 17 17 ?Fax: 05 55 05 11 15?Email: contact@craft-limoges.org?Website: http://www.craft-limoges.org ?Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Centre de recherche sur les arts du Feu et de la Terre ?Impasse Becquerel?87000 Limoges?Tél. : 05 55 49 17 17 ?Téléc. : 05 55 05 11 15?Courriel : contact@craft-limoges.org?Site Internet : http://www.craft-limoges.org ?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Nestor Perkal Two new art centres were recently established in Paris.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Nestor Perkal Deux nouveaux centres d'art parisiens ont vu le jour récemment.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They are the Palais de Tokyo and Le Plateau, an art centre associated with the FRAC.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il s'agit du Palais de Tokyo et du Plateau, un centre d'art associé au FRAC.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3.3.3 Le Palais de Tokyo Inaugurated on January 22nd 2002, this new contemporary creation site is open from noon to midnight.</seg></tuv>
+      <tuv xml:lang="fr"><seg>3.3.3 Le Palais de Tokyo Inauguré le 22 janvier 2002, ce nouveau site de création contemporaine est ouvert de midi à minuit.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is dedicated to current creation of all forms and is 8,700m² big, with 5,000m² of open space for the public and 3,500m² intended for exhibits.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce site est dédié à la création actuelle sous toutes ses formes et occupe 8 700 m², dont 5 000 m² d'espaces ouverts au public et 3 500 m² consacrés aux expositions.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Its mission is to encourage the production and dissemination of the artworks of living artists of all nations.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Sa mission est de favoriser la production et la diffusion d'oeuvres d'artistes vivants de toutes nationalités.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The artists can come to produce their artwork and the exhibit period can vary from one day to a few months.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les artistes peuvent venir y réaliser leurs oeuvres, dont la durée d'exposition peut varier d'un jour à plusieurs mois.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Pavillon is a space allocated to the art critics, creators and artists with the objective of exchanging ideas, doing research and work, but it does not constitute a residency.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le Pavillon est un espace mis à la disposition des critiques d'art, créateurs et artistes en vue d'échanger des idées, d'effectuer leurs recherches et de travailler; il ne s'agit cependant pas d'une résidence.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The registration fees to the Pavillon are $667 [EUR450].</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les frais d'inscription au Pavillon sont de 667 $ [450 EUR].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The artists who meet the selection criteria will benefit from a $1,038 [EUR700] grant per month for eight months.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les artistes répondant aux critères de sélection bénéficient d'une subvention de 1 038 $ [700 EUR] par mois pendant huit mois.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Palais de Tokyo?13, avenue du Président Wilson ?75116 Paris?Tel.: 01 47 23 54 01 ?Fax: 01 47 20 15 31?Email: info@palaisdetokyo.com ?Website: http://www.palaisdetokyo.com ?Directors:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Palais de Tokyo?13, avenue du Président Wilson ?75116 Paris?Tél. : 01 47 23 54 01 ?Téléc. : 01 47 20 15 31?Courriel : info@palaisdetokyo.com ?Site Internet : http://www.palaisdetokyo.com?Directeurs :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Jérôme Sans and Nicolas Bourriaud 3.3.4 Le Plateau Inaugurated in January 2002, Le Plateau is an art centre associated to the FRAC Île-de-France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Jérôme Sans et Nicolas Bourriaud 3.3.4 Le Plateau Inauguré en janvier 2002, Le Plateau est un centre d'art associé au FRAC Île-de-France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It has a 600m² space divided in five rooms and is located in a popular district of East Paris at Buttes Chaumont.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Constitué d'un espace de 600 m² réparti en cinq salles et situé dans un quartier populaire de l'est parisien aux Buttes Chaumont, il présente une vue d'ensemble des différents courants et influences.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It presents an overview of the different trends and influences and is open to international artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il est ouvert aux artistes internationaux.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Part of the acquisition budget of FRAC Île-de-France is used to the production of artworks intended for Le Plateau.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Une partie du budget d'acquisition du FRAC Île-de-France est consacrée à la production d'oeuvres d'art destinées au Plateau.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>An artistic joint project around common exhibits between Le Plateau, the Palais de Tokyo and two associative and multidisciplinary galleries, Mains d'oeuvres and Immanence, is being considered.</seg></tuv>
+      <tuv xml:lang="fr"><seg>On envisage une action artistique concertée entre Le Plateau, le Palais de Tokyo et deux galeries associatives pluridisciplinaires, Mains d'oeuvres et Immanence, s'articulant autour d'expositions communes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Le Plateau FRAC Île-de-France 33, rue des Alouettes 75019 Paris Tel.: 01 53 19 88 10 Fax: 01 53 19 88 19 Email: info@fracidf-leplateau.com Website: http://www.fracidf-leplateau.com Directors:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le Plateau?FRAC Île-de-France?33, rue des Alouettes?75019 Paris?Tél. : 01 53 19 88 10 ?Téléc. : 01 53 19 88 19?Courriel : info@fracidf-leplateau.com?Site Internet : http://www.fracidf-leplateau.com?Directeurs :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Bernard Goy and Caroline Bourgeois 3.4 Congrès interprofessionnel de l'art contemporain The Congrès interprofessionnel de l'art contemporain (Cipac) is an association uniting professionals helping artists and contributing to the dissemination or mediatization of contemporary art in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Bernard Goy et Caroline Bourgeois 3.4 Congrès interprofessionnel de l'art contemporain Le Congrès interprofessionnel de l'art contemporain (Cipac) est une association regroupant des professionnels agissant dans l'accompagnement des artistes et la diffusion ou médiation de l'art contemporain en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Fourteen professional associations are members of Cipac.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Quatorze associations professionnelles sont membres du Cipac.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Cipac's mission is to help develop and support contemporary art in France, encourage the recognition of its professional sector by distributing its work and propositions, to professionalize its crafts and structure the production and dissemination sites.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La mission du Cipac est de contribuer à développer et à soutenir l'art contemporain en France, de favoriser la reconnaissance de son secteur professionnel, grâce à la diffusion de ses travaux et propositions, la professionnalisation de ses métiers et la structuration des lieux de production et de diffusion.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>As a permanent platform of reflection, exchanges and propositions around essential issues for the contemporary art players, Cipac has organized three congresses since 1996.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Plateforme permanente de réflexion, d'échanges et de propositions autour de problématiques essentielles pour les acteurs de l'art contemporain, le Cipac a organisé trois congrès depuis 1996.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Attending those congresses can be very useful to better understand the French art market.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La participation à ces congrès peut s'avérer très utile pour mieux comprendre le marché français des arts.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Congrès interprofessionnel de l'art contemporain 15, rue Martel 75010 Paris Tel.: 01 44 79 10 85 Fax: 01 44 79 10 86 Email: cipac@cipac.net Website: http://www.cipac.net Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Congrès interprofessionnel de l'art contemporain?15, rue Martel?75010 Paris?Tél. : 01 44 79 10 85 ?Téléc. : 01 44 79 10 86?Courriel : cipac@cipac.net ?Site Internet : http://www.cipac.net ?Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>3 To refer to a list of those galleries, see Annex II, Assistance for the Attendance of French Artists during International Trade Shows at page 109 .</seg></tuv>
+      <tuv xml:lang="fr"><seg>3 Pour consulter la liste de ces galeries, voir l'annexe II, Aide à la présence d'artistes français dans les foires internationales, à la page 109.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 4.1 L'Association française d'action artistique? The development of international trade led the DAP, in conjunction with the Department of European and International Affairs (DAEI), to sign, in 2000, a framework convention aimed at reinforcing international action.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 4.1 L'Association française d'action artistique ? L'intensification du développement des échanges internationaux a amené la DAP, de concert avec le Département des affaires européennes et internationales (DAEI), à signer en 2000 une convention-cadre visant le renforcement de l'action internationale.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The signing of this convention had the following benefits:</seg></tuv>
+      <tuv xml:lang="fr"><seg>La signature de cette convention a eu les retombées positives suivantes :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o a more important representation of artworks from the FRACs and FNACs abroad; e.g. in 2001, the FRAC Pays de la Loire presented a series of artworks by French artists during the exhibit entitled ´´Regards croisés´´ that was held in Montreal;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o une plus large présentation d'oeuvres du FRAC et du FNAC à l'étranger; par exemple, en 2001, le FRAC Pays de la Loire a présenté un ensemble d'oeuvres d'artistes français lors de l'exposition « Regards croisés », qui s'est déroulée à Montréal;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the publication of bilingual documents;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o la publication d'ouvrages bilingues;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the visit of institutions officials, critics and exhibit commissioners during various events such as the FIAC, the Biennale d'art contemporain (Lyon) and the Rencontres internationales de la photographie (Arles);</seg></tuv>
+      <tuv xml:lang="fr"><seg>o la visite de responsables d'institutions, de critiques et de commissaires d'expositions au cours de diverses manifestations telles que la FIAC, la Biennale d'art contemporain (Lyon) et les Rencontres internationales de la photographie (Arles);</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o hosting francophone professionals working in the contemporary art sector (five in 2001) in some FRACs, art centres or art schools through a program of the DAEI;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o l'accueil de professionnels francophones oeuvrant dans le domaine de l'art contemporain (cinq en 2001) dans certains FRAC, centres d'art ou écoles d'art grâce à un programme du DAEI;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o supporting an higher number of foreign artists exhibits in France; in 2001, about a third of the artworks sold to the FNACs and FRACs came from foreign artists.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o le soutien et le nombre accru d'expositions d'artistes étrangers en France; en 2001, environ le tiers des oeuvres vendues aux FNAC et aux FRAC l'ont été par des artistes étrangers.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>International trade would not be possible without the contribution of the Ministry of Foreign Affairs and the Association française d'action artistique (AFAA).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les échanges internationaux ne pourraient avoir lieu sans le concours du ministère des Affaires étrangères et de l'Association française d'action artistique (AFAA).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>4.1 L'Association française d'action artistique Founded in 1922, the Association française d'action artistique (AFAA) has the mandate to promote the international artistic trade, with the assistance of various French cultural organizations abroad (cultural centres, French institutes, French alliances) and the private sector.</seg></tuv>
+      <tuv xml:lang="fr"><seg>4.1 L'Association française d'action artistique Créée en 1922, l'Association française d'action artistique (AFAA) s'est donné pour mandat de promouvoir les échanges artistiques internationaux, en collaboration avec les divers organismes culturels français à l'étranger (centres culturels, instituts français, alliances françaises) et le secteur privé.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The AFAA encourages the presentation of foreign productions in France under bilateral agreements by organizing the "seasons", of which it ensures the business development, the logistics and the communications.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'AFAA favorise la venue en France de productions étrangères dans le cadre d'accords bilatéraux en organisant des « saisons », dont elle assure la prospection, la logistique et les communications.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Twenty percent of the budget of their program schedule (22 million dollars [15 million euros]) is used for visual arts, architecture and heritage.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Vingt-deux pour cent de son budget de programme (22 millions de dollars [15 millions d'euros]) sont consacrés aux arts visuels, à l'architecture et au patrimoine.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>As for the Ministry of Foreign Affairs, it allocates grants to foreign artists and professionals who wish to reside in France, and the AFAA is responsible for hosting the recipients in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le ministère des Affaires étrangères, quant à lui, accorde des bourses aux artistes et professionnels étrangers désirant séjourner en France, et l'AFAA assure l'accueil des boursiers en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For more information, we recommend to contact the Embassy of France in Canada (http://www.ambafrance-ca.org). In order for the stakeholders of the art sector to keep pace with its activities, the AFAA publishes professional magazines such as Rézo international and Chroniques de l'AFAA.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour un complément d'informations, nous recommandons au lecteur de s'adresser à l'Ambassade de France au Canada (http://www.ambafrance-ca.org). Pour permettre aux acteurs du monde des arts de suivre ses activités, l'AFAA publie des revues professionnelles telles que Rézo international et Chroniques de l'AFAA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>4.1.1 Programme Les Inclassables This is a Franco-Quebecker exchange program established by the Office franco-québécois pour la jeunesse (OFQJ) and the Conseil des arts et des lettres du Québec (CALQ).</seg></tuv>
+      <tuv xml:lang="fr"><seg>4.1.1 Programme Les Inclassables Il s'agit d'un programme d'échange franco-québécois qui a été mis sur pied par l'Office franco-québécois pour la jeunesse (OFQJ) et le Conseil des arts et des lettres du Québec (CALQ).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Each year, two French artists who are less than 35 years old are welcomed at the Studio Cormier, in Montreal, for a period of six months, and three Quebec artists are invited to complete a residency in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Chaque année, deux artistes français de moins de 35 ans sont accueillis au Studio Cormier, à Montréal, pour un séjour de six mois, et trois artistes québécois sont invités en résidence en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This program involves all disciplines and new technologies.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce programme porte sur toutes les disciplines et les nouvelles technologies.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The applications must be received at the beginning of July.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le dépôt d'une demande doit être effectué au début du mois de juillet.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>4.1.2 Cité internationale des arts à Paris Two studio-apartments are offered as part of the projects chosen by the cultural services of the Embassy of France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>4.1.2 Cité internationale des arts à Paris Deux ateliers-logements sont offerts dans le cadre des projets retenus par les services culturels de l'ambassade de France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The duration of the stay varies from three to six months and the application files must be received six months before the beginning of the stay.</seg></tuv>
+      <tuv xml:lang="fr"><seg>La durée du séjour est de trois à six mois et l'envoi des dossiers de demande doit se faire six mois avant la date de séjour souhaitée.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>4.1.3 Programme Saisons étrangères Under that program, foreign artists can be invited by the AFAA.</seg></tuv>
+      <tuv xml:lang="fr"><seg>4.1.3 Programme Saisons étrangères Dans le cadre de ce programme, des artistes étrangers peuvent être invités par l'AFAA.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For example, the Canadian season "Le Printemps du Québec" in France was held in 1999.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Association française d'action artistique 1bis, avenue de Villars 75327 Paris Cedex 07 Tél.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Olivier Poivre d'Arvor Contact person:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Olivier Poivre d'Arvor Personne-ressource :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>5.1 Imports and Exports of Artworks on the French Market In 2000, the artworks exportations from France to Canada accounted for 10.5 million dollars [7.1 million euros], whereas the importations accounted for $1,437,220 [EUR969 000].</seg></tuv>
+      <tuv xml:lang="fr"><seg>5.1 Importations et exportations d'objets d'art sur le marché français En 2000, les exportations d'oeuvres d'art de la France vers le Canada totalisaient 10,5 millions de dollars [7,1 millions d'euros], tandis que ses importations s'élevaient à 1 437 220 $ [969 000 EUR].</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>From 1998 to 2000, France saw an increase of 72% of the exports and an increase of 40% of the imports.</seg></tuv>
+      <tuv xml:lang="fr"><seg>De 1998 à 2000, la France a connu une augmentation de 72 % à l'export, et une augmentation de 40 % à l'import.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the following pages, we will present the data on the International Table of Imports and Exports4.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Nous présentons dans les pages qui suivent les données du Tableau international des importations/exportations4.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Foreign Trade of Artworks Data for 2000 Exports (in thousand of dollars)</seg></tuv>
+      <tuv xml:lang="fr"><seg>Commerce extérieur des objets d'art Données de 2000 Exportations (en milliers de dollars)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Canvas, paintings, hand drawings - Engravings, prints, original lithography - Original productions of the statutory art and sculpture - Collections and specimens - Antiques more than a hundred years of age.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Tableaux, peintures, dessins à la main - Gravures, estampes, lithographies originales - Productions originales de l'art statuaire et de la sculpture - Collections et spécimens - Objets d'antiquité ayant plus de cent ans d'âge.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Foreign Trade of Artworks Data for 2000 Imports (in thousand of dollars)</seg></tuv>
+      <tuv xml:lang="fr"><seg>Commerce extérieur des objets d'art Données de 2000 Importations (en milliers de dollars)</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For more information, please refer to Annex III, Table on the Evolution of the Cultural Expenses of the Ministry of Culture from 1960 to 2001, at page 110, and to Annex IV, Table on the Exports and Imports of Cultural Properties from 1990 to 2000, at page 111.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour un complément d'informations, se reporter à l'annexe III, Tableau d'évolution des dépenses culturelles du ministère de la Culture de 1960 à 2001, à la page 110, et à l'annexe IV, Tableau des exportations et importations de biens culturels de 1990 à 2001, à la page 111.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Market of Plastic Arts in France - The Galleries</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le marché des arts plastiques en France - Les galeries</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 6.2 Art Galleries in the Provinces ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 6.2 Les galeries d'art en province ?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 6.3 Virtual Contemporary Art Galleries ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 6.3 Galeries virtuelles d'art contemporain ?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 6.4 Alternative Networks ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 6.4 Réseaux alternatifs ?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 6.5 Practical Information on Art Galleries ? The art gallery plays an essential role on the plastic art market in France by operating as an intermediate between artists, collectors and the institutions; moreover, 60% of the artworks are purchased from galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 6.5 Informations pratiques sur les galeries d'art ? La galerie d'art joue un rôle primordial dans le fonctionnement du marché des arts plastiques en France en servant d'intermédiaire entre les artistes, les collectionneurs et les institutions; qui plus est, 60 % des oeuvres sont acquises auprès des galeries.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are 479 art galleries in France, and that number includes the art dealers.</seg></tuv>
+      <tuv xml:lang="fr"><seg>On dénombre 479 galeries d'art en France, chiffre qui comprend les marchands d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>In the regions, there are 105 galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Cent cinq d'entre elles sont situées en province.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There are two types of galleries: promotion galleries and traditional galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il existe deux types de galeries : les galeries de promotion et les galeries traditionnelles.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Promotion Galleries (contemporary and avant-garde art) represent and serve living artists by purchasing or stocking their artworks, but also sometimes by funding their production.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les galeries de promotion (art contemporain et d'avant-garde) représentent et défendent des artistes vivants en leur achetant ou en prenant en dépôt leurs oeuvres, mais aussi parfois en finançant leur production.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Considering the great financial means required for art creation using new technologies (video, photo, installations, etc.), the State finances part of theses investments through public purchases.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Vu les moyens financiers considérables nécessaires au développement de l'art en utilisant les nouvelles technologies (vidéo, photo, installations, etc.), l'État subventionne une partie de ces investissements par les achats publics.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Promotion galleries, which are more open to the international market, market and exchange artworks from foreign artists by relying on the global network of galleries and by attending foreign trade shows.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les galeries de promotion, qui sont plus ouvertes sur les marchés internationaux, commercialisent et échangent des oeuvres d'artistes étrangers en s'appuyant sur le réseau mondial des galeries et en participant aux foires étrangères.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A third of those galleries make 50% of their sales through the sale of artworks by foreign creators.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Un tiers d'entre elles réalisent 50 % de leur chiffre d'affaires par la vente d'oeuvres de créateurs étrangers.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Despite some efforts towards the international promotion, the exports are still modest in this area.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Malgré les efforts de promotion à l'extérieur, les exportations à ce chapitre demeurent modestes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>As for traditional galleries (modern and contemporary art), most of them are managed by art dealers whose marketing strategy is based on the secondary art market.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Pour ce qui est des galeries traditionnelles (art moderne et contemporain), elles sont pour la plupart dirigées par des marchands d'art dont la stratégie commerciale est basée sur le marché secondaire de l'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They buy artworks from other galleries, auction sales or private collectors.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles achètent leurs oeuvres à d'autres galeries, à des ventes aux enchères ou à des collectionneurs privés.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They then resell them with a percentage, thus promoting the primary market which is a more risky activity on the economic level.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles les revendent ensuite en prélevant un pourcentage, ce qui leur permet de faire la promotion du marché primaire, activité plus risquée sur le plan économique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Those galleries receive little assistance from the State (2% of their sales) and they earn 85% of their sales volume through private collectors.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ces galeries sont peu soutenues par l'État (2 % de leur chiffre d'affaires); elles réalisent 85 % de leur volume de ventes grâce aux collectionneurs privés.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>We should point out that their sales are higher for exportation because they have been around longer and, consequently, they are better known and benefit from a larger network abroad.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Soulignons que leur chiffre d'affaires à l'exportation est plus élevé, car elles existent depuis plus longtemps et, par conséquent, elles bénéficient d'une plus grande notoriété et sont tributaires d'un réseau plus vaste à l'étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>6.1 Art Galleries in Paris The art galleries in Paris are concentrated in the following four districts:</seg></tuv>
+      <tuv xml:lang="fr"><seg>6.1 Les galeries d'art parisiennes Les galeries d'art à Paris sont concentrées dans les quatre quartiers suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Beaubourg-Marais, East Paris/Bastille, Rive droite-Matignon et Rive Gauche.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Beaubourg-Marais, Est parisien/Bastille, Rive droite-Matignon et Rive gauche.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Depending on the district, they may be promotion or traditional galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Selon le quartier, on retrouvera des galeries de promotion ou des galeries traditionnelles.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>6.1.1 Promotion Galleries The promotion galleries (contemporary and avant-garde art) are located for the most part in the Beaubourg-Marais (1er, 2e, 3e and 4e arrondissements) and East Paris/Bastille (11e arrondissement), and carré Louise Weiss (13e arrondissement) districts, where the avant-garde trend is best represented.</seg></tuv>
+      <tuv xml:lang="fr"><seg>6.1.1 Les galeries de promotion Les galeries de promotion (art contemporain et d'avant-garde) sont situées pour la plupart dans les quartiers Beaubourg-Marais (1er, 2e, 3e et 4e arrondissements) et Est parisien/Bastille (11e arrondissement) et carré Louise Weiss (13e arrondissement), où la tendance avant-gardiste est la mieux représentée.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Main Art Galleries in Paris Beaubourg-Marais East paris/Bastille Carré Beaubourg Chantal CROUSEL ?AIR de PARIS?40, rue Quincampoix?75004 Paris 01 42 77 38 87?Email: galerie@crousel.com Marian GOODMAN?79, rue du Temple?75003 Paris 01 48 01 70 52?Email: parisgallery@mariangoodman.com Ghislaine HUSSENOT?5bis, rue des Haudriettes?75003 Paris 01 48 87 60 81?Email: ghislaine.hussenot@wanadoo.fr Nathalie OBADIA ?5, rue du Grenier Saint Lazare?75003 Paris 01 42 74 67 68?Email: info@galerie-obadia.com Daniel TEMPLON?30, rue Beaubourg?75003 Paris 01 42 72 14 0?Email: info@danieltemplon.com Anne de ViIllepoix?43, rue de Montmorency?75003 Paris 01 42 78 32 24?Email: info@annedevillepoix.com ZURCHER?56, rue Chapon?75003 Paris 01 42 72 82 20?Email: info@galeriezurcher.com Carré Louise Weiss AIR de PARIS?32, rue Louise Weiss ?75013 Paris 01 44 23 02 77?Email: fan@airdeparis.com ART:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Principales galeries d'art parisiennes Beaubourg-Marais Est parisien/Bastille Carré Beaubourg Chantal CROUSEL ?AIR de PARIS?40, rue Quincampoix?75004 Paris 01 42 77 38 87?Courriel : galerie@crousel.com Marian GOODMAN?79, rue du Temple?75003 Paris 01 48 01 70 52?Courriel : parisgallery@mariangoodman.com Ghislaine HUSSENOT?5bis, rue des Haudriettes?75003 Paris 01 48 87 60 81?Courriel : ghislaine.hussenot@wanadoo.fr Nathalie OBADIA ?5, rue du Grenier Saint Lazare?75003 Paris 01 42 74 67 68?Courriel : info@galerie-obadia.com Daniel TEMPLON?30, rue Beaubourg?75003 Paris 01 42 72 14 0?Courriel : info@danieltemplon.com Anne de ViIllepoix?43, rue de Montmorency?75003 Paris 01 42 78 32 24?Courriel : info@annedevillepoix.com ZURCHER?56, rue Chapon?75003 Paris 01 42 72 82 20?Courriel : info@galeriezurcher.com Carré Louise Weiss AIR de PARIS?32, rue Louise Weiss ?75013 Paris 01 44 23 02 77?Courriel : fan@airdeparis.com ART :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>CONCEPT?16, rue du Chefdelaville?75013 Paris 01 53 60 90 30?Email: antoliv@galerieartconcept.com PRAZ-DELAVALLADE?28, rue Louise Weiss ?75013 Paris 01 45 86 20 00?Email: gallery@praz-delavallade.com Almine RECH?127, rue du Chevaleret ?75013 Paris 01 45 83 71 90?Email: a.rech@galeriealminerech.com Suzanne TARASIEVE?171, rue du Chevaleret?75013 Paris 01 45 86 02 02?Email: suzanne.tarasieve@wanadoo.fr Carré Marais Corinne CAMINADE?14, rue du Perche?75003 Paris 01 42 72 27 04?Email: corinnecaminade@wanadoo.fr Valérie CUETO?10/12, rue des Coutures St-Gervais?75003 Paris 01 42 71 91 89?Email: contact@valeriecueto.com ?Website: http://www.valeriecueto.com Dominique FIAT?16, rue des Coutures St-Gervais?75003 Paris 01 40 29 98 80?Email: contact@galeriefiat.com Emmanuel PERROTIN?76, rue de Turenne?75003 Paris 01 42 16 79 79?Email: info@galerieperrotin.com ?Website: http://www.galerieperrotin.com Carré Beaubourg Karsten GREVE?5, rue Debelleyme?75003 Paris 01 42 77 19 37?Email: g-kartsten-greve@wanadoo.fr Bernard JORDAN?57, rue de Bretagne?75003 Paris 01 42 77 19 61?Email: galerie.bernard.jordan@wanadoo.fr Yvon LAMBERT?108, rue Vieille du Temple?75003 Paris 01 42 71 09 33?Email: paris@yvon-lambert.com LES FILLES DU CALVAIRE?17, rue des Filles du Calvaire?75003 Paris 01 42 74 47 05?Email: info@fillesducalvaire.com RABOUAN- MOUSSION?121, rue Vieille du Temple?75003 Paris 01 48 87 75 91?Email: rabouan@noos.fr Thaddaeus ROPAC?7, rue Debelleyme?75003 Paris 01 42 72 99 00?Email: galerie@ropac.net CHEZ VALENTIN?9, rue Saint-Gilles?75003 Paris 01 48 87 42 55?Email: galeriechezvalentin@noos.fr ?Website: http://www.galeriechezvalentin.com Carré Bastille DURAND DESSERT?28, rue de Lappe?75011 Paris 01 48 06 92 23?Email: lm.durand-dessert@wanadoo.fr GUIGON?39, rue de Charenton?75012 Paris 01 53 17 69 53?Email: info@galerie-guigon.com Alain GUTHARC?47, rue de Lappe?75011 Paris 01 47 00 32 10?Email: gutharc@free.fr Yvonamor PALIX?13, rue Keller?75011 Paris 01 48 06 36 70?Email: yapalix@aol.com</seg></tuv>
+      <tuv xml:lang="fr"><seg>CONCEPT?16, rue du Chefdelaville?75013 Paris 01 53 60 90 30?Courriel : antoliv@galerieartconcept.com PRAZ-DELAVALLADE?28, rue Louise Weiss ?75013 Paris 01 45 86 20 00?Courriel : gallery@praz-delavallade.com Almine RECH?127, rue du Chevaleret ?75013 Paris 01 45 83 71 90?Courriel : a.rech@galeriealminerech.com Suzanne TARASIEVE?171, rue du Chevaleret?75013 Paris 01 45 86 02 02?Courriel : suzanne.tarasieve@wanadoo.fr Carré Marais Corinne CAMINADE?14, rue du Perche?75003 Paris 01 42 72 27 04?Courriel : corinnecaminade@wanadoo.fr Valérie CUETO?10/12, rue des Coutures St-Gervais?75003 Paris 01 42 71 91 89?Courriel : contact@valeriecueto.com ?Site Internet : http://www.valeriecueto.com Dominique FIAT?16, rue des Coutures St-Gervais?75003 Paris 01 40 29 98 80?Courriel : contact@galeriefiat.com Emmanuel PERROTIN?76, rue de Turenne?75003 Paris 01 42 16 79 79?Courriel : info@galerieperrotin.com?Site Internet : http://www.galerieperrotin.com Carré Beaubourg Karsten GREVE?5, rue Debelleyme?75003 Paris 01 42 77 19 37?Courriel : g-kartsten-greve@wanadoo.fr Bernard JORDAN?57, rue de Bretagne?75003 Paris 01 42 77 19 61?Courriel : galerie.bernard.jordan@wanadoo.fr Yvon LAMBERT?108, rue Vieille du Temple?75003 Paris 01 42 71 09 33?Courriel : paris@yvon-lambert.com LES FILLES DU CALVAIRE?17, rue des Filles du Calvaire?75003 Paris 01 42 74 47 05?Courriel : info@fillesducalvaire.com RABOUAN- MOUSSION?121, rue Vieille du Temple?75003 Paris 01 48 87 75 91?Courriel : rabouan@noos.fr Thaddaeus ROPAC?7, rue Debelleyme?75003 Paris 01 42 72 99 00?Courriel : galerie@ropac.net CHEZ VALENTIN?9, rue Saint-Gilles?75003 Paris 01 48 87 42 55?Courriel : galeriechezvalentin@noos.fr ?Site Internet : http://www.galeriechezvalentin.com ? Carré Bastille DURAND DESSERT?28, rue de Lappe?75011 Paris 01 48 06 92 23?Courriel : lm.durand-dessert@wanadoo.fr GUIGON?39, rue de Charenton?75012 Paris 01 53 17 69 53?Courriel : info@galerie-guigon.com Alain GUTHARC?47, rue de Lappe?75011 Paris 01 47 00 32 10?Courriel : gutharc@free.fr Yvonamor PALIX?13, rue Keller?75011 Paris 01 48 06 36 70?Courriel : yapalix@aol.com</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>PAVIOT?57, rue Sainte Anne?75002 Paris 01 42 60 10 01?Email: gfp@paviotfoto.com</seg></tuv>
+      <tuv xml:lang="fr"><seg>PAVIOT?57, rue Sainte Anne?75002 Paris 01 42 60 10 01?Courriel : gfp@paviotfoto.com</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>6.1.2 Traditional Galleries Many traditional galleries are located in the Rive droite-Matignon (8e, 9e, 16e and 17e arrondissements) district; actually, 66% of the galleries in Matignon exhibit figurative art.</seg></tuv>
+      <tuv xml:lang="fr"><seg>6.1.2 Les galeries traditionnelles Plusieurs galeries traditionnelles sont situées dans le quartier Rive droite-Matignon (8e, 9e, 16e et 17e arrondissements); à preuve, 66 % des galeries du quartier Matignon exposent de l'art figuratif.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>For their part, the galleries of Rive Gauche district (5e, 6e, 7e and 14e arrondissements) are dedicated to modern art (1874-1950) and contemporary art (1950 to date), and especially to paintings.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les galeries du quartier Rive gauche (5e, 6e, 7e et 14e arrondissements), quant à elles, sont vouées à l'art moderne (1874-1950) et à l'art contemporain (1950 à aujourd'hui), et en particulier à la peinture.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Note that there are as many traditional galleries as promotion galleries in Saint-Germain.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Fait à signaler, on retrouve dans le quartier Saint-Germain tant des galeries traditionnelles que de promotion.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Main Art Galleries in Paris Rive droite-Matignon Rive Gauche Carré Haussmann Louis CARRE?10, avenue Messine?75008 Paris 01 45 62 57 07?Email: louiscarré@wanadoo.fr LELONG?13, rue de Téhéran?75008 Paris 01 45 63 13 19?Email: galerie-lelong@wanadoo.fr Carré VIIème Denise RENE?196, bd Saint-Germain?75007 Paris 01 42 22 77 57?Email: info@deniserene.com Jean FOURNIER?22, rue du Bac?75007 Paris 01 42 97 44 00?Email: galerie.jeanfournier@free.fr Carré Matignon Enrico NAVARRA?16, avenue Matignon.75008 Paris?01 45 61 91 91?Email: navarra@club-internet.fr Jérôme de NOIRMONT?38, avenue Matignon?75008 Paris 01 42 89 89 00?Email: info@denoimont.com ?Website: http://www.denoirmont.com RX?6, avenue Delcassé?75008 Paris 01 45 63 18 78?Email: info@galerierx.com Carré rue de Seine APPLICAT-PRAZAN?16, rue de Seine?75006 Paris 01 43 25 39 24?Email: applicat-prazan@wanadoo.fr DI MEO?9, rue des Beaux-arts?754006 Paris 01 43 54 10 98?Email: contact@dimeo Galerie 1900-2000?8, rue Bonaparte?75006 Paris 01 43 25 84 20?Email: info@galerie1900-2000.com LOEVENBRUCK?40, rue de Seine?75006 Paris 01 53 10 85 68?Email: contact@loevenbruck.com Kamel MENNOUR?60, rue Mazarine?75006 Paris 01 56 24 03 63?Email: kmennour@noos.fr G-P et N. VALLOIS?36, rue de Seine?75006 Paris 01 46 24 61 07?Email: ggpnv@wanadoo.fr Aline VIDAL?70, rue Bonaparte?75006 Paris 01 43 26 08 68?Email: gal.alinevidal@wanadoo.fr LARA VINCY?47, rue de Seine?75006 Paris 01 43 26 72 51?Email: galerielaravincy@wanadoo.fr 6.2 Art Galleries in the Provinces There are 105 art galleries in the provinces and they are distributed in 19 regions of France on a total of 22 regions (outside DOM-TOMs).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Principales galeries d'art parisiennes Carré Haussmann Louis CARRE?10, avenue Messine?75008 Paris 01 45 62 57 07?Courriel : louiscarré@wanadoo.fr LELONG?13, rue de Téhéran?75008 Paris 01 45 63 13 19?Courriel : galerie-lelong@wanadoo.fr Carré VIIème Denise RENE?196, bd Saint-Germain?75007 Paris 01 42 22 77 57?Courriel : info@deniserene.com Jean FOURNIER?22, rue du Bac?75007 Paris 01 42 97 44 00?Courriel : galerie.jeanfournier@free.fr Carré Matignon Enrico NAVARRA?16, avenue Matignon.75008 Paris?01 45 61 91 91?Courriel : navarra@club-internet.fr Jérôme de NOIRMONT?38, avenue Matignon?75008 Paris 01 42 89 89 00?Courriel : info@denoimont.com?Site Internet : http://www.denoirmont.com RX?6, avenue Delcassé?75008 Paris 01 45 63 18 78?Courriel : info@galerierx.com Carré rue de Seine APPLICAT-PRAZAN?16, rue de Seine?75006 Paris 01 43 25 39 24?Courriel : applicat-prazan@wanadoo.fr DI MEO?9, rue des Beaux-arts?754006 Paris 01 43 54 10 98?Courriel : contact@dimeo Galerie 1900-2000?8, rue Bonaparte?75006 Paris 01 43 25 84 20?Courriel : info@galerie1900-2000.com LOEVENBRUCK?40, rue de Seine?75006 Paris 01 53 10 85 68?Courriel : contact@loevenbruck.com Kamel MENNOUR?60, rue Mazarine?75006 Paris 01 56 24 03 63?Courriel : kmennour@noos.fr G-P et N. VALLOIS?36, rue de Seine?75006 Paris 01 46 24 61 07?Courriel : ggpnv@wanadoo.fr Aline VIDAL?70, rue Bonaparte?75006 Paris 01 43 26 08 68?Courriel : gal.alinevidal@wanadoo.fr LARA VINCY?47, rue de Seine?75006 Paris 01 43 26 72 51?Courriel : galerielaravincy@wanadoo.fr 6.2 Les galeries d'art en province On dénombre 105 galeries d'art en province, réparties dans 19 régions de France sur un total de 22 régions (hors DOM-TOM).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>These are rather contemporary and figurative art galleries with an economic component similar to those of the Parisian galleries; few of them present avant-garde art.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il s'agit plutôt de galeries d'art contemporain et figuratif avec un volet économique semblable à celui des galeries parisiennes; peu d'entre elles sont d'avant-garde.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Almost half of the provincial art galleries are located in the following important regions:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Près de la moitié des galeries d'art en province sont implantées dans les grandes régions suivantes :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Provence-Alpes-Côte-d'azur (PACA) and Midi-Pyrénées (30%), and Rhône-Alpes (20%).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Provence-Alpes-Côte-d'azur (PACA) et Midi-Pyrénées (30 %), et Rhône-Alpes (20 %).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Here are some of those sites:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Voici quelques-uns de ces sites :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Jean Daviot (artiste), http://www.daviot.net 6.4 Alternative Networks 6.4.1 Artist Collectives and Associative Galleries In parallel to the private galleries, and to deal with the development of new plural artistic practices and the lack of dissemination sites, the collectives and associative galleries are expanding in different ways.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Jean Daviot (artiste), http://www.daviot.net 6.4 Réseaux alternatifs 6.4.1 Collectifs d'artistes et galeries associatives Parallèlement aux galeries privées, afin de faire face à l'évolution de nouvelles pratiques artistiques plurielles et pallier le manque de lieux de diffusion, les collectifs et les galeries associatives connaissent une expansion qui peut prendre plusieurs formes.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>There can be exhibit spaces managed by young artists who wish to develop new artistic practices and to reach a new public for contemporary art in France and abroad.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il peut s'agir de lieux d'exposition gérés par de jeunes artistes qui veulent développer de nouvelles pratiques artistiques et sensibiliser un nouveau public à l'art contemporain en France et à l'étranger.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>International meetings are organized in Europe in relation with Attitudes (http://www.attitudes.ch), in Geneva.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Des rencontres internationales sont organisées en Europe en liaison avec Attitudes (http://www.attitudes.ch), à Genève.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Those spaces are supported by institutions and some museums with which they collaborate to organize collective exhibits (e.g. the ZAC exhibit at the Musée d'art moderne de la ville de Paris).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ces lieux bénéficient du soutien des institutions et de certains musées avec lesquels ils collaborent pour organiser des expositions collectives (p. ex., exposition ZAC au Musée d'art moderne de la ville de Paris).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Immanence is an association founded in 2000.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Immanence est une association qui a vu le jour en 2000.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It organizes four exhibits a year: monographic, collective, free hand and extramuros.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elle organise quatre expositions par an : monographique, collective, carte blanche et hors les murs.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>?http://www.tram-art.org ?http://www.art-immanence.org The main associations of the alternative networks to remember are Accès local, Bless, Bonaccini/Fohn/Fourt, Büro, Infozone, Kolkoz, Labomatic, Périphériques, Purple Institute, Rodi designers and Toasting Agency.</seg></tuv>
+      <tuv xml:lang="fr"><seg>?http://www.tram-art.org ?http://www.art-immanence.org Les principales associations des réseaux alternatifs à retenir sont Accès local, Bless, Bonaccini/Fohn/Fourt, Büro, Infozone, Kolkoz, Labomatic, Périphériques, Purple Institute, Rodi designers et Toasting Agency.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The Friches are another example of collectives that do not have access to institutional networks.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les Friches sont un autre exemple de collectifs qui n'ont pas accès aux réseaux institutionnels.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They propose to artists to create a particular project on site in reorganized sites.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles proposent aux artistes de créer sur place un projet particulier dans des lieux réaménagés.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Among them, there are Rakan, in Nîmes and Le Confort moderne, which is part of the TransEurope-Halles European network (http://www.teh.net) and brings together 27 independent and multidisciplinary culture sites.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Parmi elles, citons Rakan, à Nîmes, et Le Confort moderne, qui fait partie du réseau européen TransEurope-Halles (http://www.teh.net) et qui regroupe 27 lieux de culture indépendants et multidisciplinaires.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Its mandate is to advocate and provide professionals and individuals information and advice on all aspects of the art market.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Comité professionnel des galeries d'art 83, rue du Faubourg Saint Honoré 75008 Paris Tél.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>BILL'ART 2004 Tel. et Fax: 01 40 50 60 98 Email: billart@billart.org Websites: http://www.billart.org ; http://www.officieldesarts.com</seg></tuv>
+      <tuv xml:lang="fr"><seg>On peut se le procurer pour la somme de 27 euros.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>To find out the dates and exhibit locations in Paris, the following programs are distributed for free in most galleries and they include addresses and location plans: 6.5.1 Paris Beaubourg/Paris Rive Gauche Updated five times a year, this program is provided by the galleries member of the Association des galeries that brings together 130 galleries, institutions and contemporary art centres d'art in Île-de-France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>: 01 40 50 60 98?Courriel : billart@billart.org?Sites Internet : http://www.billart.org; http://www.officieldesarts.com Pour connaître les dates et lieux d'exposition dans Paris, les programmes suivants sont diffusés gratuitement dans la majorité des galeries, adresses et plans de localisation à l'appui : 6.5.1 Paris Beaubourg/Paris Rive gauche Mis à jour cinq fois par an, ce programme est offert dans les galeries membres de l'Association des galeries qui regroupe 130 galeries, institutions et centres d'art contemporain d'Île-de-France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Canadian Artwork Promotion in France</seg></tuv>
+      <tuv xml:lang="fr"><seg>La promotion des oeuvres d'art canadiennes en France</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 7.3 Preparing and Sending a Case File ?</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 7.3 Préparation et envoi du dossier?</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o 7.6 Standard Agreement and Cost Estimate ? 7.1 Artwork Circulation The artwork and artist's circulation and the organization of exhibits are essential to encourage and enhance the exchange.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o 7.6 Contrat type et estimation des coûts ? 7.1 Circulation des oeuvres La circulation des oeuvres et des artistes et l'organisation d'expositions sont primordiales pour favoriser et accroître les échanges.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The artists can be known abroad if their notoriety is fostered at the international level.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les artistes peuvent être reconnus au-delà des frontières si leur notoriété est cultivée à l'échelle internationale.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>This is no easy task and it would be difficult to start with a personal exhibit in a French gallery, even in Paris.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'entreprise n'est pas aisée, et il serait ardu de commencer par une exposition personnelle dans une galerie française, voire parisienne.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Consequently, participating in a collective exhibit is the best strategy to approach this market.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Par conséquent, la participation à une exposition collective semble être la meilleure stratégie pour aborder ce marché.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>7.2 General Advice Here is some advice intended to anyone interested in promoting artworks in France:</seg></tuv>
+      <tuv xml:lang="fr"><seg>7.2 Conseils généraux Voici quelques conseils destinés à toute personne désireuse de faire la promotion d'oeuvres d'art en France :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Get a strong knowledge of the market and its main stakeholders (gallery owners, dealers, artists, persons in charge of organizing exhibits, etc.) by using the different tools proposed in this guide.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Acquérir une solide connaissance du marché et de ses principaux intervenants (galeristes, marchands, artistes, responsables de la programmation des expositions, etc.) en utilisant les différents outils proposés dans le présent guide.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Determine the galleries in line with your artistic and aesthetic field.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Déterminer les galeries correspondant à sa ligne artistique et esthétique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Build a file on the information collected on different websites in relation to the contemporary art world in France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Constituer un fichier des informations recueillies sur les différents sites Web portant sur le monde de l'art contemporain en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Plan a stay in France corresponding with a major artistic event such as the opening of an important museum exhibit or the opening of an international show, during which most of the artistic community will be there.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Planifier un séjour en France autour d'un événement artistique majeur tel que l'ouverture d'une grande exposition muséale ou le vernissage d'une foire internationale, où la grande majorité de la communauté artistique est présente.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Going to a show is an excellent way to establishing contacts and detecting the new trends.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Visiter un salon ou une foire constitue un excellent moyen de créer des contacts et capter les tendances qui se font jour.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o Make an appointment by phone or email directly with the directors of the targeted galleries during a trip to France.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o Prendre rendez-vous par téléphone ou par courriel directement avec les directeurs de galerie ciblés lors d'un séjour en France.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It's important to note that in France, the gallery director is THE decision maker and in fact, often times the gallery is named after its director.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il importe de souligner qu'en France, le directeur de galerie est LE décideur; de fait, il arrive fréquemment que la galerie porte le nom de son directeur.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>He is an important contact because he is responsible of the artists and the relations with the collectors and critics.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Ce dernier est un interlocuteur privilégié, car c'est lui qui prend en charge les artistes et les relations avec les collectionneurs et les critiques d'art.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>7.3 Preparing and Sending a Case File Before sending a file by mail or email, it is best to confirm the name and title of the person in charge of the applications.</seg></tuv>
+      <tuv xml:lang="fr"><seg>7.3 Préparation et envoi du dossier Avant d'envoyer un dossier par la poste ou par courriel, il est recommandé d'obtenir la confirmation du nom et du titre du responsable des dossiers de demande.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You should send a file by fax only if asked to do so.</seg></tuv>
+      <tuv xml:lang="fr"><seg>L'envoi d'un dossier par télécopieur ne doit se faire que sur demande spécifique.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is also better to send a file by mail with a prepaid return envelop (for people living in France) otherwise the file may be "stored" or even discarded.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Aussi, il faut éviter d'envoyer un dossier par la poste sans enveloppe de retour affranchie (pour les personnes qui résident en France) car bien souvent, ils sont au mieux « rangés », au pire jetés.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>A file that includes photographic documents, copies of 35 mm slides (with the name of the artist, title, technique and dimensions of the artwork) with quality color photocopies are sufficient for a first contact.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Si le dossier comporte des documents photos, des duplicata de diapositives 35 mm (avec nom de l'artiste, titre, technique et format de l'oeuvre) accompagnés de photocopies couleur de qualité sont suffisants pour un premier contact.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The best time to send files is the end of October, beginning of November (after the shows, which are very busy for galleries) and February, where the schedule for the next season is established.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les meilleures périodes pour l'envoi des dossiers sont fin octobre-début novembre (après les foires, périodes très occupées pour les galeries) et février, moment de l'année où l'on établit le calendrier de la saison suivante.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The file must include the following elements:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le dossier doit être constitué des éléments suivants :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the complete resume of the artist(s);</seg></tuv>
+      <tuv xml:lang="fr"><seg>o le curriculum vitae complet du ou des artistes;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the list of personal and collective exhibits;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o la liste des expositions personnelles et collectives;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o digital photos of artworks to send by email (you should use them judiciously and they should be of impeccable quality);</seg></tuv>
+      <tuv xml:lang="fr"><seg>o des photos numériques des oeuvres pour envoi par courriel (leur choix doit être judicieux et leur qualité, irréprochable);</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the list of publications on the gallery or the artist artworks;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o la liste des publications portant sur la galerie ou les oeuvres des artistes;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the press clippings and critics of the exhibits;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o les coupures de journaux et critiques des expositions;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the website links or the gallery where the work or the artists can be seen;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o les sites Internet ou la galerie où le travail du ou des artistes peut être vu;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o the presentation of the gallery: the artists presented, the present and future exhibits, the presence and participation to other events such as international shows and museum exhibits;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o la présentation de la galerie : artistes exposés, expositions en cours et futures, présence et participation à d'autres manifestations telles que des foires internationales et des expositions muséales;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o a cover letter explaining why you chose this gallery and the way the artist can intervene in the programming or in the chosen collective exhibit.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o une lettre d'accompagnement et d'introduction expliquant les raisons du choix de cette galerie et la façon dont l'artiste peut intervenir dans sa programmation ou dans l'exposition collective choisie.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>The contacts, whether by phone or written (mail), must be established in advance because of the exhibit programming.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Les contacts, qu'ils se fassent par téléphone ou par écrit (courriel), doivent être établis suffisamment à l'avance compte tenu de la programmation des expositions.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>You must consider at least six months to a year for a private gallery and two years for a public organization.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il faut compter au moins six mois à un an dans le cas d'une galerie privée et deux ans pour un organisme public.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>7.4 Suggested Approach The following activities may contribute to developing links with the different players of the artistic environment (curatos, artistic advisors, artists, journalists or art critics).</seg></tuv>
+      <tuv xml:lang="fr"><seg>7.4 Démarche suggérée Les activités suivantes peuvent aider à créer des liens avec les différents acteurs de la scène artistique (conservateurs, conseillers artistiques, artistes, journalistes ou critiques d'art).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>They can also result in a recommendation to a gallery, an institution or a magazine.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Elles peuvent également déboucher sur une recommandation auprès d'une galerie, d'une institution ou d'une revue.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Do not overlook the importance of interpersonal relationships and the existence of networks by artistic affinity in this field.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il ne faut pas négliger l'importance des relations interpersonnelles et l'existence de réseaux par affinités artistiques dans ce domaine.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is thus recommended:</seg></tuv>
+      <tuv xml:lang="fr"><seg>Il est donc recommandé :</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o to make appointments with different galleries, institutions and targeted art centres;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o de prendre rendez-vous avec les différentes galeries, institutions et centres d'art ciblés;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o to go to conferences and participate in seminars with art experts (critics, journalists, curators, etc.);</seg></tuv>
+      <tuv xml:lang="fr"><seg>o d'assister à des conférences et de participer à des colloques animés par des experts en art (critiques, journalistes, conservateurs, etc.);</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o to visit open workshops;</seg></tuv>
+      <tuv xml:lang="fr"><seg>o de visiter les ateliers portes ouvertes;</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>o to visit galleries by districts, attend openings, especially the ones common to different districts in Paris, the most popular being Louise Weiss in the 13e arrondissement, le Marais, Saint-Germain-des-Prés, avenue Matignon and Faubourg Saint-Honoré, and the oldest in Carré Rive Gauche, between rue de l'Université and la rue de Beaune.</seg></tuv>
+      <tuv xml:lang="fr"><seg>o de visiter les galeries par quartier, participer aux vernissages, surtout les vernissages communs des différents quartiers de Paris, les plus courus étant Louise Weiss dans le 13e arrondissement, Marais, Saint-Germain-des-Prés, avenue Matignon et Faubourg Saint-Honoré, et le plus ancien, celui du Carré Rive gauche, entre la rue de l'Université et la rue de Beaune.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>It is not guaranteed that this will result in an exhibit within a year but it is important to consider that the sale of artworks by foreign artists in private galleries in France represent 30% of the sales of those galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le résultat d'une exposition programmée dans l'année n'est certes pas garanti, mais force est de constater que la vente d'oeuvres d'artistes étrangers dans les galeries privées en France représente 30 % du chiffre d'affaires de l'ensemble de ces galeries.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Most artworks are sold by recently founded galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>Le gros des oeuvres est vendu par des galeries récemment installées.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>Furthermore, the exchange exhibits between French and Canadian artists occur mainly through the institutional sector (DAEI, AFAA, DAP, FRACs and regional art centres) and the associative sector during international shows, and exceptionally through private galleries.</seg></tuv>
+      <tuv xml:lang="fr"><seg>En outre, les échanges d'expositions d'artistes français et canadiens se font le plus souvent par l'intermédiaire du milieu institutionnel (le DAEI, l'AFAA, la DAP, les FRAC et les centres d'art régionaux) et du milieu associatif lors de foires internationales, et exceptionnellement par des galeries privées.</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>On that subject, let us note a federative and international cultural initiative in Paris: the creation, on April 11th 2002, of the Forum des instituts culturels étrangers à Paris (Ficep).</seg></tuv>
+      <tuv xml:lang="fr"><seg>Notons à ce chapitre une initiative fédératrice et internationale de la culture à Paris : la création, le 11 avril 2002, du Forum des instituts culturels étrangers à Paris (Ficep).</seg></tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="en"><seg>7.5 Insurance 7.5.1 Canadian Artwork Exhibit and Sale There are different conditions to insure Canadian artworks in a private gallery in France:</seg></tuv>
+      <tuv xml:lang="fr"><seg>7.5 Assurances 7.5.1 Exposition vente d'oeuvres canadiennes Différentes modalités sont possibles pour assurer des oeuvres canadiennes exposées dans une galerie privée en France :</seg></tuv>
+    </tu>
+  </body>
+</tmx>
